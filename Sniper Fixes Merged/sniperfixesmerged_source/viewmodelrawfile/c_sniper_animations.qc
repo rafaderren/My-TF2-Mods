@@ -16,35 +16,38 @@ $bbox -19.685 -23.689 -49.325 47.049 70.501 3.79
 
 $definebone "root" "" -70.5 -0.000003 -9.839844 -0.053113 89.995337 -170.212522 0 0 0 0 0 0
 $definebone "bip_collar_L" "root" 3.716865 -0.611984 -5.626579 -10.750179 -69.923256 -177.151051 0 0 0 0 0 0
-$definebone "bip_upperArm_L" "bip_collar_L" -0.000031 -5.595224 -0.000001 -4.410972 -45.354823 0.277942 0 0 0 0 0 0
-$definebone "bip_lowerArm_L" "bip_upperArm_L" 0.000107 -12.121822 -0.000004 -0.000058 0.000355 -22.817181 0 0 0 0 0 0
-$definebone "bip_hand_L" "bip_lowerArm_L" 0.000046 -14.193293 -0.000046 -0.00018 0.000306 0.00033 0 0 0 0 0 0
 $definebone "bip_collar_R" "root" -3.707598 -0.611938 -5.626621 10.751273 69.922334 2.84823 0 0 0 0 0 0
+$definebone "bip_upperArm_L" "bip_collar_L" -0.000031 -5.595224 -0.000001 -4.410972 -45.354823 0.277942 0 0 0 0 0 0
 $definebone "bip_upperArm_R" "bip_collar_R" -0.000069 5.595217 -0.000011 -4.411945 -45.353846 0.278746 0 0 0 0 0 0
+$definebone "bip_lowerArm_L" "bip_upperArm_L" 0.000107 -12.121822 -0.000004 -0.000058 0.000355 -22.817181 0 0 0 0 0 0
 $definebone "bip_lowerArm_R" "bip_upperArm_R" -0.000004 12.121803 0.000012 0.000574 0.00008 -22.817022 0 0 0 0 0 0
+$definebone "bip_hand_L" "bip_lowerArm_L" 0.000046 -14.193293 -0.000046 -0.00018 0.000306 0.00033 0 0 0 0 0 0
 $definebone "bip_hand_R" "bip_lowerArm_R" 0.000053 14.193308 0.000036 -0.000065 0.000019 -0.000017 0 0 0 0 0 0
 $definebone "effect_hand_L" "bip_hand_L" -1.711334 -2.86425 -0.85259 0.08323 -0.571875 2.89453 0 0 0 0 0 0
 $definebone "effect_hand_R" "bip_hand_R" 1.724354 2.873692 0.818334 -0.070762 0.098674 -0.209754 0 0 0 0 0 0
-$definebone "vm_weapon_bone_6" "bip_hand_R" 7.450626 10.009686 3.488625 -17.933399 65.251406 -90.38696 0 0 0 0 0 0
-$definebone "vm_weapon_bone_5" "bip_hand_R" 6.76392 8.608126 2.98422 -1.577562 -0.312986 1.13884 0 0 0 0 0 0
-$definebone "vm_weapon_bone_4" "bip_hand_R" 6.16349 7.382669 2.543194 -1.577559 -0.312984 1.138838 0 0 0 0 0 0
-$definebone "vm_weapon_bone_3" "bip_hand_R" 5.471346 5.970013 2.034793 -17.933283 65.251406 -90.387144 0 0 0 0 0 0
-$definebone "vm_weapon_bone_2" "bip_hand_R" 4.768173 4.534838 1.518291 -17.933399 65.251406 -90.38696 0 0 0 0 0 0
-$definebone "vm_weapon_bone_1" "bip_hand_R" 4.115967 3.203693 1.039227 -17.933235 65.251413 -90.387022 0 0 0 0 0 0
 $definebone "vm_weapon_bone" "bip_hand_R" 3.417542 1.778231 0.526216 -17.933457 65.251406 -90.387015 0 0 0 0 0 0
-$definebone "weapon_bone_L" "bip_hand_L" -1.710648 -2.522348 -0.791935 14.067417 -21.913151 108.448227 0 0 0 0 0 0
-$definebone "weapon_bone_4" "bip_hand_R" 4.529037 8.390814 2.905543 -0.05307 -25.671015 -72.013977 0 0 0 0 0 0
-$definebone "weapon_bone_3" "bip_hand_R" 3.730648 6.728405 2.306815 -0.053126 -25.67079 -72.013854 0 0 0 0 0 0
-$definebone "weapon_bone_2" "bip_hand_R" 3.039036 5.288338 1.788153 -0.053585 -25.670788 -72.013731 0 0 0 0 0 0
-$definebone "weapon_bone_1" "bip_hand_R" 2.397537 3.952652 1.307096 -0.05307 -25.67096 -72.013854 0 0 0 0 0 0
-$definebone "weapon_bone" "bip_hand_R" 1.710602 2.522314 0.791944 -0.053072 -25.670721 -72.01386 0 0 0 0 0 0
+$definebone "vm_weapon_bone_1" "bip_hand_R" 4.115967 3.203693 1.039227 -17.933235 65.251413 -90.387022 0 0 0 0 0 0
+$definebone "vm_weapon_bone_2" "bip_hand_R" 4.768173 4.534838 1.518291 -17.933399 65.251406 -90.38696 0 0 0 0 0 0
+$definebone "vm_weapon_bone_3" "bip_hand_R" 5.471346 5.970013 2.034793 -17.933283 65.251406 -90.387144 0 0 0 0 0 0
+$definebone "vm_weapon_bone_4" "bip_hand_R" 6.16349 7.382669 2.543194 -1.577559 -0.312984 1.138838 0 0 0 0 0 0
+$definebone "vm_weapon_bone_5" "bip_hand_R" 6.76392 8.608126 2.98422 -1.577562 -0.312986 1.13884 0 0 0 0 0 0
+$definebone "vm_weapon_bone_6" "bip_hand_R" 7.450626 10.009686 3.488625 -17.933399 65.251406 -90.38696 0 0 0 0 0 0
+$definebone "vm_weapon_bone_7" "bip_hand_R" 8.110359 11.35619 3.973217 -17.933348 65.251406 -90.38696 0 0 0 0 0 0
 $definebone "vm_weapon_bone_L" "bip_hand_L" -3.353287 -1.792957 -0.564012 17.605501 -117.408507 74.889281 0 0 0 0 0 0
 $definebone "vm_weapon_bone_L_1" "bip_hand_L" -4.059357 -3.218786 -1.084439 14.067417 -21.913151 108.448227 0 0 0 0 0 0
 $definebone "vm_weapon_bone_L_2" "bip_hand_L" -4.711426 -4.54954 -1.564763 14.067417 -21.913151 108.448227 0 0 0 0 0 0
-$definebone "vm_weapon_bone_7" "bip_hand_R" 8.110359 11.35619 3.973217 -17.933348 65.251406 -90.38696 0 0 0 0 0 0
+$definebone "weapon_bone" "bip_hand_R" 1.710602 2.522314 0.791944 -0.053072 -25.670721 -72.01386 0 0 0 0 0 0
+$definebone "weapon_bone_1" "bip_hand_R" 2.397537 3.952652 1.307096 -0.05307 -25.67096 -72.013854 0 0 0 0 0 0
+$definebone "weapon_bone_2" "bip_hand_R" 3.039036 5.288338 1.788153 -0.053585 -25.670788 -72.013731 0 0 0 0 0 0
+$definebone "weapon_bone_3" "bip_hand_R" 3.730648 6.728405 2.306815 -0.053126 -25.67079 -72.013854 0 0 0 0 0 0
+$definebone "weapon_bone_4" "bip_hand_R" 4.529037 8.390814 2.905543 -0.05307 -25.671015 -72.013977 0 0 0 0 0 0
+$definebone "weapon_bone_L" "bip_hand_L" -1.710648 -2.522348 -0.791935 14.067417 -21.913151 108.448227 0 0 0 0 0 0
 $definebone "bip_thumb_0_L" "bip_hand_L" -1.859825 -2.648376 2.207279 4.149815 -20.655132 -13.189092 0 0 0 0 0 0
+$definebone "bip_thumb_0_R" "bip_hand_R" 1.859837 2.648315 -2.207249 4.148889 -20.655117 -13.188117 0 0 0 0 0 0
 $definebone "bip_thumb_1_L" "bip_thumb_0_L" -0.000008 -2.049984 0.00001 -0.000862 -0.000513 6.311402 0 0 0 0 0 0
+$definebone "bip_thumb_1_R" "bip_thumb_0_R" -0.000011 2.050003 -0.000008 -0.000017 0.000136 6.310609 0 0 0 0 0 0
 $definebone "bip_thumb_2_L" "bip_thumb_1_L" 0.000006 -1.291378 0.000015 0.000226 -0.000111 -4.343715 0 0 0 0 0 0
+$definebone "bip_thumb_2_R" "bip_thumb_1_R" 0.000036 1.29142 0.000011 0.00056 -0.000092 -4.343823 0 0 0 0 0 0
 $definebone "L_Twist_4" "bip_lowerArm_L" 0.000034 -13.693264 0.000007 0.004911 -89.996109 0.000008 0 0 0 0 0 0
 $definebone "L_Twist_4_M" "L_Twist_4" 0.000032 -0.000008 -0.000015 -0.00002 -0.000017 0.000178 0 0 0 0 0 0
 $definebone "L_Twist_3" "bip_lowerArm_L" 0.000023 -10.644272 -0.000014 0.000331 -89.999258 -0.00005 0 0 0 0 0 0
@@ -52,33 +55,34 @@ $definebone "L_Twist_3_M" "L_Twist_3" 0.000008 -0.000015 -0.000013 -0.000012 -0.
 $definebone "L_Twist_2" "bip_lowerArm_L" 0.000008 -7.096241 0.000016 0.000331 -89.999258 0.000063 0 0 0 0 0 0
 $definebone "L_Twist_1" "bip_lowerArm_L" -0.000008 -3.548256 0.000023 0.000273 -89.999463 0.00012 0 0 0 0 0 0
 $definebone "bip_index_0_L" "bip_hand_L" 0.237587 -5.361626 1.505651 85.664369 47.269998 68.415539 0 0 0 0 0 0
-$definebone "bip_index_1_L" "bip_index_0_L" -0.000023 -2.789356 0.000004 0.00047 -0.000454 40.259983 0 0 0 0 0 0
-$definebone "bip_index_2_L" "bip_index_1_L" -0.000003 -1.804699 -0.00001 0.000009 -0.000115 10.686725 0 0 0 0 0 0
-$definebone "bip_thumb_0_R" "bip_hand_R" 1.859837 2.648315 -2.207249 4.148889 -20.655117 -13.188117 0 0 0 0 0 0
-$definebone "bip_thumb_1_R" "bip_thumb_0_R" -0.000011 2.050003 -0.000008 -0.000017 0.000136 6.310609 0 0 0 0 0 0
-$definebone "bip_thumb_2_R" "bip_thumb_1_R" 0.000036 1.29142 0.000011 0.00056 -0.000092 -4.343823 0 0 0 0 0 0
 $definebone "bip_index_0_R" "bip_hand_R" -0.237602 5.361589 -1.50561 85.664178 47.271746 68.416905 0 0 0 0 0 0
+$definebone "bip_index_1_L" "bip_index_0_L" -0.000023 -2.789356 0.000004 0.00047 -0.000454 40.259983 0 0 0 0 0 0
 $definebone "bip_index_1_R" "bip_index_0_R" -0.000001 2.78933 0.000011 -0.000159 0.000236 40.260007 0 0 0 0 0 0
+$definebone "bip_index_2_L" "bip_index_1_L" -0.000003 -1.804699 -0.00001 0.000009 -0.000115 10.686725 0 0 0 0 0 0
 $definebone "bip_index_2_R" "bip_index_1_R" -0.000002 1.804729 0.000026 -0.000102 0.000279 10.685585 0 0 0 0 0 0
-$definebone "bip_middle_0_R" "bip_hand_R" -0.179264 5.739393 0.211212 76.379888 123.302974 145.769501 0 0 0 0 0 0
-$definebone "bip_middle_1_R" "bip_middle_0_R" -0.000029 2.810345 -0.000021 -0.000223 0.00035 32.544127 0 0 0 0 0 0
-$definebone "bip_middle_2_R" "bip_middle_1_R" -0.000011 2.500301 0.000023 0.00001 0.000062 21.736703 0 0 0 0 0 0
-$definebone "bip_ring_0_R" "bip_hand_R" 0.394344 5.352367 1.896413 75.231399 130.658677 153.534142 0 0 0 0 0 0
-$definebone "bip_ring_1_R" "bip_ring_0_R" -0.000006 2.377304 0.000038 0.000066 0.000003 34.597514 0 0 0 0 0 0
-$definebone "bip_ring_2_R" "bip_ring_1_R" 0 2.165981 0.000018 0.00012 -0.000061 24.979465 0 0 0 0 0 0
-$definebone "bip_pinky_0_R" "bip_hand_R" 0.227985 4.503632 3.220777 71.565267 104.542302 131.974336 0 0 0 0 0 0
-$definebone "bip_pinky_1_R" "bip_pinky_0_R" -0.000004 2.339725 0.000076 0.000002 -0.000112 30.523897 0 0 0 0 0 0
-$definebone "bip_pinky_2_R" "bip_pinky_1_R" 0.000009 1.654018 -0.000035 -0.000057 0.000117 16.552933 0 0 0 0 0 0
 $definebone "bip_middle_0_L" "bip_hand_L" 0.179237 -5.739494 -0.211203 76.37995 123.301976 145.768627 0 0 0 0 0 0
+$definebone "bip_middle_0_R" "bip_hand_R" -0.179264 5.739393 0.211212 76.379888 123.302974 145.769501 0 0 0 0 0 0
 $definebone "bip_middle_1_L" "bip_middle_0_L" -0.000019 -2.810307 -0.000027 0.000455 -0.000397 32.544591 0 0 0 0 0 0
+$definebone "bip_middle_1_R" "bip_middle_0_R" -0.000029 2.810345 -0.000021 -0.000223 0.00035 32.544127 0 0 0 0 0 0
 $definebone "bip_middle_2_L" "bip_middle_1_L" 0 -2.500328 0.000009 0.000059 -0.000109 21.736981 0 0 0 0 0 0
+$definebone "bip_middle_2_R" "bip_middle_1_R" -0.000011 2.500301 0.000023 0.00001 0.000062 21.736703 0 0 0 0 0 0
 $definebone "bip_ring_0_L" "bip_hand_L" -0.394428 -5.352421 -1.896388 75.231125 130.662598 153.538363 0 0 0 0 0 0
+$definebone "bip_ring_0_R" "bip_hand_R" 0.394344 5.352367 1.896413 75.231399 130.658677 153.534142 0 0 0 0 0 0
 $definebone "bip_ring_1_L" "bip_ring_0_L" 0.000007 -2.377277 -0.000006 -0.000474 0.000234 34.597504 0 0 0 0 0 0
+$definebone "bip_ring_1_R" "bip_ring_0_R" -0.000006 2.377304 0.000038 0.000066 0.000003 34.597514 0 0 0 0 0 0
 $definebone "bip_ring_2_L" "bip_ring_1_L" -0.000021 -2.165993 -0.000004 0.000219 -0.00033 24.979335 0 0 0 0 0 0
+$definebone "bip_ring_2_R" "bip_ring_1_R" 0 2.165981 0.000018 0.00012 -0.000061 24.979465 0 0 0 0 0 0
 $definebone "bip_pinky_0_L" "bip_hand_L" -0.228081 -4.503639 -3.220744 71.565506 104.54528 131.977833 0 0 0 0 0 0
+$definebone "bip_pinky_0_R" "bip_hand_R" 0.227985 4.503632 3.220777 71.565267 104.542302 131.974336 0 0 0 0 0 0
 $definebone "bip_pinky_1_L" "bip_pinky_0_L" 0 -2.339836 -0.000008 -0.000004 -0.000052 30.524617 0 0 0 0 0 0
+$definebone "bip_pinky_1_R" "bip_pinky_0_R" -0.000004 2.339725 0.000076 0.000002 -0.000112 30.523897 0 0 0 0 0 0
 $definebone "bip_pinky_2_L" "bip_pinky_1_L" 0.000002 -1.654053 0.00001 0.000056 0.000006 16.552798 0 0 0 0 0 0
+$definebone "bip_pinky_2_R" "bip_pinky_1_R" 0.000009 1.654018 -0.000035 -0.000057 0.000117 16.552933 0 0 0 0 0 0
 $definebone "bip_hand_L_M" "bip_hand_L" 0.000008 -0.000025 -0.000011 -0.000067 0.000138 -0.000019 0 0 0 0 0 0
+$definebone "L_Twist_4_2" "bip_lowerArm_L_2" -0.000042 -13.693253 0.000043 -28.279271 -88.674509 -2.788362 0 0 0 0 0 0
+$definebone "L_Twist_3_2" "bip_lowerArm_L_2" -0.00005 -10.644264 0.00001 -28.296296 -88.676496 -2.788707 0 0 0 0 0 0
+$definebone "L_Twist_2_2" "bip_lowerArm_L_2" -0.000042 -7.096237 0.000044 -28.296014 -88.676681 -2.788994 0 0 0 0 0 0
+$definebone "L_Twist_1_2" "bip_lowerArm_L_2" -0.000034 -3.548241 0.00004 -28.297207 -88.676858 -2.788762 0 0 0 0 0 0
 $definebone "R_Twist_4" "bip_lowerArm_R" 0.00013 13.69101 0.000033 -0.001305 90.009012 -0.000867 0 0 0 0 0 0
 $definebone "R_Twist_2" "bip_lowerArm_R" 0.000057 7.094006 0.000015 -0.000217 89.99975 -0.000582 0 0 0 0 0 0
 $definebone "R_Twist_1" "bip_lowerArm_R" 0.000031 3.546013 0.00001 -0.000673 89.999743 -0.000697 0 0 0 0 0 0
@@ -101,10 +105,6 @@ $definebone "bip_index_2_L_2" "bip_index_1_L_2" 0.000002 -1.804722 -0.000007 70.
 $definebone "bip_thumb_0_L_2" "bip_hand_L_2" -1.763561 -2.648365 2.284962 6.435861 -20.731941 -14.060347 0 0 0 0 0 0
 $definebone "bip_thumb_1_L_2" "bip_thumb_0_L_2" -0.000051 -2.050007 0.000008 -0.003442 -0.003994 6.311099 0 0 0 0 0 0
 $definebone "bip_thumb_2_L_2" "bip_thumb_1_L_2" 0.000021 -1.291393 0.00001 0.002232 0.002826 -4.343464 0 0 0 0 0 0
-$definebone "L_Twist_4_2" "bip_lowerArm_L_2" -0.000042 -13.693253 0.000043 -28.279271 -88.674509 -2.788362 0 0 0 0 0 0
-$definebone "L_Twist_3_2" "bip_lowerArm_L_2" -0.00005 -10.644264 0.00001 -28.296296 -88.676496 -2.788707 0 0 0 0 0 0
-$definebone "L_Twist_2_2" "bip_lowerArm_L_2" -0.000042 -7.096237 0.000044 -28.296014 -88.676681 -2.788994 0 0 0 0 0 0
-$definebone "L_Twist_1_2" "bip_lowerArm_L_2" -0.000034 -3.548241 0.00004 -28.297207 -88.676858 -2.788762 0 0 0 0 0 0
 $definebone "bip_upperArm_R_2" "root" -8.816827 3.055054 4.501112 6.11134 24.17338 -5.401101 0 0 0 0 0 0
 $definebone "bip_lowerArm_R_2" "bip_upperArm_R_2" 0.000111 12.121815 0.000048 -3.20203 0.944876 -22.851158 0 0 0 0 0 0
 $definebone "bip_hand_R_2" "bip_lowerArm_R_2" 0.000237 14.193325 0.000037 0.000285 0.000065 0.000115 0 0 0 0 0 0
@@ -149,41 +149,35 @@ $poseparameter "r_hand_grip" 0 12 loop 0
 $weightlist "weights_r_handposes" {
 	 "root" 0
 	 "bip_collar_L" 0
-	 "bip_collar_R" 0
 	 "bip_upperArm_L" 0
-	 "bip_upperArm_R" 0
 	 "bip_lowerArm_L" 0
-	 "bip_lowerArm_R" 0
 	 "bip_hand_L" 0
+	 "bip_collar_R" 0
+	 "bip_upperArm_R" 0
+	 "bip_lowerArm_R" 0
 	 "bip_hand_R" 0
 	 "effect_hand_L" 0
 	 "effect_hand_R" 0
-	 "vm_weapon_bone" 1
-	 "vm_weapon_bone_1" 1
-	 "vm_weapon_bone_2" 1
-	 "vm_weapon_bone_3" 1
-	 "vm_weapon_bone_4" 1
-	 "vm_weapon_bone_5" 1
-	 "vm_weapon_bone_6" 1
-	 "vm_weapon_bone_7" 0
+	 "weapon_bone_L" 0
+	 "vm_weapon_bone_6" 0
+	 "vm_weapon_bone_5" 0
+	 "vm_weapon_bone_4" 0
+	 "vm_weapon_bone_3" 0
+	 "vm_weapon_bone_2" 0
+	 "vm_weapon_bone_1" 0
+	 "vm_weapon_bone" 0
+	 "weapon_bone_4" 0
+	 "weapon_bone_3" 0
+	 "weapon_bone_2" 0
+	 "weapon_bone_1" 0
+	 "weapon_bone" 0
 	 "vm_weapon_bone_L" 0
 	 "vm_weapon_bone_L_1" 0
 	 "vm_weapon_bone_L_2" 0
-	 "weapon_bone" 1
-	 "weapon_bone_1" 0
-	 "weapon_bone_2" 0
-	 "weapon_bone_3" 0
-	 "weapon_bone_4" 0
-	 "weapon_bone_L" 0
-	 
-	 
+	 "vm_weapon_bone_7" 0
 	 "bip_thumb_0_L" 0
-	 "bip_thumb_0_R" 1
 	 "bip_thumb_1_L" 0
-	 "bip_thumb_1_R" 1
 	 "bip_thumb_2_L" 0
-	 "bip_thumb_2_R" 1
-	 
 	 "L_Twist_4" 0
 	 "L_Twist_4_M" 0
 	 "L_Twist_3" 0
@@ -193,21 +187,21 @@ $weightlist "weights_r_handposes" {
 	 "bip_index_0_L" 0
 	 "bip_index_1_L" 0
 	 "bip_index_2_L" 0
-	 
-	 
-	 
+	 "bip_thumb_0_R" 0
+	 "bip_thumb_1_R" 0
+	 "bip_thumb_2_R" 0
 	 "bip_index_0_R" 0
 	 "bip_index_1_R" 0
 	 "bip_index_2_R" 0
-	 "bip_middle_0_R" 1
-	 "bip_middle_1_R" 1
-	 "bip_middle_2_R" 1
-	 "bip_ring_0_R" 1
-	 "bip_ring_1_R" 1
-	 "bip_ring_2_R" 1
-	 "bip_pinky_0_R" 1
-	 "bip_pinky_1_R" 1
-	 "bip_pinky_2_R" 1
+	 "bip_middle_0_R" 0
+	 "bip_middle_1_R" 0
+	 "bip_middle_2_R" 0
+	 "bip_ring_0_R" 0
+	 "bip_ring_1_R" 0
+	 "bip_ring_2_R" 0
+	 "bip_pinky_0_R" 0
+	 "bip_pinky_1_R" 0
+	 "bip_pinky_2_R" 0
 	 "bip_middle_0_L" 0
 	 "bip_middle_1_L" 0
 	 "bip_middle_2_L" 0
