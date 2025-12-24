@@ -6,7 +6,7 @@ Mods Used:
 - https://gamebanana.com/mods/516361
 - https://gamebanana.com/mods/203319
 
-This is a requested mod
+This is requested by kamez(https://gamebanana.com/members/1522879)
 This mod is a combination of:
 - Realistic Bolt Overhaul
 - New Sniper Viewmodel Hands + SMG Shell Ejection
