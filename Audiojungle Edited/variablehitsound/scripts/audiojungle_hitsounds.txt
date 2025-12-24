@@ -1,0 +1,468 @@
+"Player.HitSoundDefaultDing"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"  	"SNDLVL_NONE"	
+	"pitch"			"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"			")ui/hitsounds/hitsound1.mp3" //byeah
+		"wave"			")ui/hitsounds/hitsound2.mp3" //Disc Scratch
+		"wave"			")ui/hitsounds/hitsound3.mp3" //Ants
+		"wave"			")ui/hitsounds/hitsound4.mp3" //Bababambam
+		"wave"			")ui/hitsounds/hitsound5.mp3" //DJ
+		"wave"			")ui/hitsounds/hitsound6.mp3" //Jerma A
+		"wave"			")ui/hitsounds/hitsound7.mp3" //Jerma E
+		"wave"			")ui/hitsounds/hitsound8.mp3" //Jerma O
+		"wave"			")ui/hitsounds/hitsound9.mp3" // DRG Mushroom
+		"wave"			")ui/hitsounds/hitsound10.mp3" // HL Scientist Scream 1
+		"wave"			")ui/hitsounds/hitsound11.mp3" // HL Scientist Scream 1
+		"wave"			")ui/hitsounds/hitsound12.mp3" // Gta SA Popup
+		"wave"			")ui/hitsounds/hitsound13.mp3" // Pinball sound 1
+		"wave"			")ui/hitsounds/hitsound14.mp3" // OSRS Player Hit
+		"wave"			")ui/hitsounds/hitsound15.mp3" // BOI Player Hit
+		"wave"			")ui/hitsounds/hitsound16.mp3" // Quake Guy Jump
+		"wave"			")ui/hitsounds/hitsound17.mp3" // Boneworks NPC
+		"wave"			")ui/hitsounds/hitsound18.mp3" // Boneworks NPC 2
+		"wave"			")ui/hitsounds/hitsound19.mp3" // BOI Player Hit 2
+		"wave"			")ui/hitsounds/hitsound20.mp3" // BOI Player Hit 3
+		"wave"			")ui/hitsounds/hitsound21.mp3" // BOI Player Hit 4
+		"wave"			")ui/hitsounds/hitsound22.mp3" // Goldeneye Enemy Grunt
+		"wave"			")ui/hitsounds/hitsound23.mp3" // Goldeneye Enemy Grunt 2
+		"wave"			")ui/hitsounds/hitsound24.mp3" // Goldeneye Enemy Grunt 3
+		"wave"			")ui/hitsounds/hitsound25.mp3" // Warioland 4 Wario
+		"wave"			")ui/hitsounds/hitsound26.mp3" // Warioland 4 Wario
+		"wave"			")ui/hitsounds/hitsound27.mp3" // Warioland 4 Wario
+		"wave"			")ui/hitsounds/hitsound28.mp3" // Warioland 4 Wario
+		"wave"			")ui/hitsounds/hitsound29.mp3" // Warioland 4 Wario
+		"wave"			")ui/hitsounds/hitsound30.mp3" // Cartoon Hitsound
+		"wave"			")ui/hitsounds/hitsound31.mp3" // Fart
+		"wave"			")ui/hitsounds/hitsound32.mp3" // Dong sound from a Snoopdog Sound or something
+		"wave"			")ui/hitsounds/hitsound33.mp3" // Amongus sound
+		"wave"			")ui/hitsounds/hitsound34.mp3" // Joel saying dicks
+		"wave"			")ui/hitsounds/hitsound35.mp3" // Pufferfish AUGH
+		"wave"			")ui/hitsounds/hitsound36.mp3" // Obi Wan
+		"wave"			")ui/hitsounds/hitsound37.mp3" // Mario64 OOF
+		"wave"			")ui/hitsounds/hitsound38.mp3" // Minecraft Steve hit new
+		"wave"			")ui/hitsounds/hitsound39.mp3" // Ding from meme Amongus
+		"wave"			")ui/hitsounds/hitsound40.mp3" // Pinball sound 2
+		"wave"			")ui/hitsounds/hitsound41.mp3" // Roblox sound
+		"wave"			")ui/hitsounds/hitsound42.mp3" // COD Hitsound
+		"wave"			")ui/hitsounds/hitsound43.mp3" // Gmod Workshop loading sound
+		"wave"			")ui/hitsounds/hitsound44.mp3" // Crash Bandicoot Fruit pickup 
+		"wave"			")ui/hitsounds/hitsound45.mp3" // Mario paint meow
+		"wave"			")ui/hitsounds/hitsound46.mp3" // Earthbound Crit
+		"wave"			")ui/hitsounds/hitsound47.mp3" // Minecraft XP pickup
+		"wave"			")ui/hitsounds/hitsound48.mp3" // Oh No 
+		"wave"			")ui/hitsounds/hitsound49.mp3" // Ben
+		"wave"			")ui/hitsounds/hitsound50.mp3" // CSGO Headshot
+		"wave"			")ui/hitsounds/hitsound51.mp3" // VOX Announcer saying Nice
+		"wave"			")ui/hitsounds/hitsound52.mp3" // OOOOH without the My god
+		"wave"			")ui/hitsounds/hitsound53.mp3" // Smash Ultimate slash
+		"wave"			")ui/hitsounds/hitsound54.mp3" // Earthbound hit
+		"wave"			")ui/hitsounds/hitsound55.mp3" // Amongus report
+		"wave"			")ui/hitsounds/hitsound56.mp3" // Minecraft Creeper
+		"wave"			")ui/hitsounds/hitsound57.mp3" // Undertale hit
+		"wave"			")ui/hitsounds/hitsound58.mp3" // Navi from OOT
+		"wave"			")ui/hitsounds/hitsound59.mp3" // Smash Ultimate Hitsound
+		"wave"			")ui/hitsounds/hitsound60.mp3" // Gun sound very meaty
+		"wave"			")ui/hitsounds/hitsound61.mp3" // Duck squeak
+		"wave"			")ui/hitsounds/hitsound62.mp3" // Engineer Nope
+		"wave"			")ui/hitsounds/hitsound63.mp3" // Cartoon Punch sound
+		"wave"			")ui/hitsounds/hitsound64.mp3" // MSN Notification
+		"wave"			")ui/hitsounds/hitsound65.mp3" // What the dog doin
+		"wave"			")ui/hitsounds/hitsound66.mp3" // Smash Bros Target hit
+		"wave"			")ui/hitsounds/hitsound67.mp3" // Pootis
+		"wave"			")ui/hitsounds/hitsound68.mp3" // BRUH
+		"wave"			")ui/hitsounds/hitsound69.mp3" // Male07 Dooh
+		"wave"			")ui/hitsounds/hitsound70.mp3" // HL2 Water Drop or Gmod popup
+		"wave"			")ui/hitsounds/hitsound71.mp3" // Donkeykong Grunt
+		"wave"			")ui/hitsounds/hitsound72.mp3" // Pizza Tower Taunt
+		"wave"			")ui/hitsounds/hitsound73.mp3" // Madness Combat
+		"wave"			")ui/hitsounds/hitsound74.mp3" // Madness Combat
+		"wave"			")ui/hitsounds/hitsound75.mp3" // Madness Combat
+		"wave"			")ui/hitsounds/hitsound76.mp3" // Madness Combat
+		"wave"			")ui/hitsounds/hitsound77.mp3" // Madness Combat
+		"wave"			")ui/hitsounds/hitsound78.mp3" // Madness Combat
+		"wave"			")ui/hitsounds/hitsound79.mp3" // Madness Combat
+		"wave"			")ui/hitsounds/hitsound80.mp3" // Madness Combat
+		"wave"			")ui/hitsounds/hitsound81.mp3" // Burnout 3 Nitro removed
+		"wave"			")ui/hitsounds/hitsound82.mp3" // Burnout 3 car crash
+		"wave"			")ui/hitsounds/hitsound83.mp3" // FINISH HIM
+		"wave"			")ui/hitsounds/hitsound84.mp3" // FohSho Rhythm Heaven Fever
+		"wave"			")ui/hitsounds/hitsound85.mp3" // Mario Kart Item selection
+		"wave"			")ui/hitsounds/hitsound86.mp3" // Ye Rhythm Heaven Fever
+		"wave"			")ui/hitsounds/hitsound87.mp3" // Kick Rhythm Heaven
+		"wave"			")ui/hitsounds/hitsound88.mp3" // Gordon Freeman self damage
+		"wave"			")ui/hitsounds/hitsound89.mp3" // Gordon Freeman self damage
+		"wave"			")ui/hitsounds/hitsound90.mp3" // Gordon Freeman self damage
+		"wave"			")ui/hitsounds/hitsound91.mp3" // Hl2 Flesh hit sound
+		"wave"			")ui/hitsounds/hitsound92.mp3" // Hl2 Flesh hit sound
+		"wave"			")ui/hitsounds/hitsound93.mp3" // Hl2 Flesh hit sound
+		"wave"			")ui/hitsounds/hitsound94.mp3" // Hl2 Flesh hit sound
+		"wave"			")ui/hitsounds/hitsound95.mp3" // Hl2 Flesh hit sound
+		"wave"			")ui/hitsounds/hitsound96.mp3" // Hl2 Flesh hit sound
+		"wave"			")ui/hitsounds/hitsound97.mp3" // Bolt Pickup Ratchet and Clank
+		"wave"			")ui/hitsounds/hitsound98.mp3" // Hl2 Flesh hit sound
+		"wave"			")ui/hitsounds/hitsound99.mp3" // Warioware minigame success
+		"wave"			")ui/hitsounds/hitsound100.mp3" // Dramatic Meme sound
+		"wave"			")ui/hitsounds/hitsound101.mp3" // Zelda Hearth sound
+		"wave"			")ui/hitsounds/hitsound102.mp3" // Mother 3 Critical hit
+		"wave"			")ui/hitsounds/hitsound103.mp3" // Car Honk
+		"wave"			")ui/hitsounds/hitsound104.mp3" // Quack duck sound
+		"wave"			")ui/hitsounds/hitsound105.mp3" // Quake Hitsound
+		"wave"			")ui/hitsounds/hitsound106.mp3" // Morshu You want it
+		"wave"			")ui/hitsounds/hitsound107.mp3" // CJ Scream
+		"wave"			")ui/hitsounds/hitsound108.mp3" // Waltuh
+		"wave"			")ui/hitsounds/hitsound109.mp3" // Pokeball sound
+		"wave"			")ui/hitsounds/hitsound110.mp3" // DK Grunt
+		"wave"			")ui/hitsounds/hitsound111.mp3" // Smash Ultimate Hitsound
+		"wave"			")ui/hitsounds/hitsound112.mp3" // Mario 64 coin
+		"wave"			")ui/hitsounds/hitsound113.mp3" // Sticky Key
+		"wave"			")ui/hitsounds/hitsound114.mp3" // no fuck off
+		"wave"			")ui/hitsounds/hitsound115.mp3" // CJ Scream
+		"wave"			")ui/hitsounds/hitsound116.mp3" // Cartoon Sound hit
+		"wave"			")ui/hitsounds/hitsound117.mp3" // Doomguy grunt
+		"wave"			")ui/hitsounds/hitsound118.mp3" // Undertale dead
+		"wave"			")ui/hitsounds/hitsound119.mp3" // Villager hit
+		"wave"			")ui/hitsounds/hitsound120.mp3" // Majoras Mask bounce sound
+		"wave"			")ui/hitsounds/hitsound121.mp3" // Pacman
+		"wave"			")ui/hitsounds/hitsound122.mp3" // Hl2 Flesh hit sound
+		"wave"			")ui/hitsounds/hitsound123.mp3" // Gta SA NPC Scream
+		"wave"			")ui/hitsounds/hitsound124.mp3" // Smash Fox Reflect Shield
+		"wave"			")ui/hitsounds/hitsound125.mp3" // Paper Mario or Animal Crossing UI sound
+		"wave"			")ui/hitsounds/hitsound126.mp3" // L4D Popup
+		"wave"			")ui/hitsounds/hitsound127.mp3" // Duck or Plush squeak
+		"wave"			")ui/hitsounds/hitsound128.mp3" // Mario World Coin
+		"wave"			")ui/hitsounds/hitsound129.mp3" // Deathgrips DUH
+		"wave"			")ui/hitsounds/hitsound130.mp3" // Oblivion Guard STOP
+		"wave"			")ui/hitsounds/hitsound131.mp3" // Animal Crossing UI Sound menu
+		"wave"			")ui/hitsounds/hitsound132.mp3" // Lego City HEY
+		"wave"			")ui/hitsounds/hitsound133.mp3" // Android Notification
+		"wave"			")ui/hitsounds/hitsound134.mp3" // Switch click
+		"wave"			")ui/hitsounds/hitsound135.mp3" // LBP Pickup
+		"wave"			")ui/hitsounds/hitsound136.mp3" // Fish
+		"wave"			")ui/hitsounds/hitsound137.mp3" // CJ SCream
+		"wave"			")ui/hitsounds/hitsound138.mp3" // POW
+		"wave"			")ui/hitsounds/hitsound139.mp3" // Duke Nukem grunt I think
+		"wave"			")ui/hitsounds/hitsound140.mp3" // Old Mincraft self damage
+		"wave"			")ui/hitsounds/hitsound141.mp3" // XP error
+		"wave"			")ui/hitsounds/hitsound142.mp3" // Whiplash GTFO
+		"wave"			")ui/hitsounds/hitsound143.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound144.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound145.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound146.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound147.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound148.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound149.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound150.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound151.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound152.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound153.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound154.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound155.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound156.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound157.mp3" // Goldeneye Grunt
+		"wave"			")ui/hitsounds/hitsound158.mp3" // Goldeneye Weapon
+		"wave"			")ui/hitsounds/hitsound159.mp3" // Goldeneye Weapon
+		"wave"			")ui/hitsounds/hitsound160.mp3" // Goldeneye self damage
+		"wave"			")ui/hitsounds/hitsound161.mp3" // Metalslug explosion
+		"wave"			")ui/hitsounds/hitsound162.mp3" // Metalslug pickup
+		"wave"			")ui/hitsounds/hitsound163.mp3" // Metalslug GO
+		"wave"			")ui/hitsounds/hitsound164.mp3" // GTA5 Money
+		"wave"			")ui/hitsounds/hitsound165.mp3" // TOASTY
+		"wave"			")ui/hitsounds/hitsound166.mp3" // Snooring short
+		"wave"			")ui/hitsounds/hitsound167.mp3" // Fart
+		"wave"			")ui/hitsounds/hitsound168.mp3" // Fart
+		"wave"			")ui/hitsounds/hitsound169.mp3" // Fart
+		"wave"			")ui/hitsounds/hitsound170.mp3" // Fart
+		"wave"			")ui/hitsounds/hitsound171.mp3" // Fart
+		"wave"			")ui/hitsounds/hitsound172.mp3" // CJ Imma eat you
+		"wave"			")ui/hitsounds/hitsound173.mp3" // Rhythm Heaven YO
+		"wave"			")ui/hitsounds/hitsound174.mp3" // Rhythm Heaven YEA
+		"wave"			")ui/hitsounds/hitsound175.mp3" // Hi Herbert
+		"wave"			")ui/hitsounds/hitsound176.mp3" // Richtechs Intro
+		"wave"			")ui/hitsounds/hitsound177.mp3" // Chuck Mcgill
+		"wave"			")ui/hitsounds/hitsound178.mp3" // Mother 3 Hitsound
+		"wave"			")ui/hitsounds/hitsound179.mp3" // Chuck Mcgill
+		"wave"			")ui/hitsounds/hitsound180.mp3" // Chuck Mcgill
+		"wave"			")ui/hitsounds/hitsound181.mp3" // Flipnote Select
+		"wave"			")ui/hitsounds/hitsound182.mp3" // Dallas Hi
+		"wave"			")ui/hitsounds/hitsound183.mp3" // Dallas Scream
+		"wave"			")ui/hitsounds/hitsound184.mp3" // Gib kiss
+		"wave"			")ui/hitsounds/hitsound185.mp3" // Crack
+		"wave"			")ui/hitsounds/hitsound186.mp3" // Flipnote Frog
+		"wave"			")ui/hitsounds/hitsound187.mp3" // Scatman
+		"wave"			")ui/hitsounds/hitsound188.mp3" // Fart half migraine
+		"wave"			")ui/hitsounds/hitsound189.mp3" // Hl1 Shut up
+		"wave"			")ui/hitsounds/hitsound190.mp3" // Ryu from Streets
+		"wave"			")ui/hitsounds/hitsound191.mp3" // Fart beat drop
+		"wave"			")ui/hitsounds/hitsound192.mp3" // Cartoon Gun fire
+		"wave"			")ui/hitsounds/hitsound193.mp3" // Cartoon hit sound
+		"wave"			")ui/hitsounds/hitsound194.mp3" // Cartoon hit sound
+		"wave"			")ui/hitsounds/hitsound195.mp3" // Cartoon hit sound
+		"wave"			")ui/hitsounds/hitsound196.mp3" // Cartoon hit sound
+		"wave"			")ui/hitsounds/hitsound197.mp3" // Cartoon hit sound
+		"wave"			")ui/hitsounds/hitsound198.mp3" // Cartoon hit sound
+		"wave"			")ui/hitsounds/hitsound199.mp3" // Cartoon Gun fire
+		"wave"			")ui/hitsounds/hitsound200.mp3" // Cartoon Gun fire
+		"wave"			")ui/hitsounds/hitsound201.mp3" // Cartoon Gun fire
+		"wave"			")ui/hitsounds/hitsound202.mp3" // Cartoon Gun fire
+		"wave"			")ui/hitsounds/hitsound203.mp3" // Cartoon Gun fire
+		"wave"			")ui/hitsounds/hitsound204.mp3" // Cartoon Anvil Drop
+		"wave"			")ui/hitsounds/hitsound205.mp3" // Cartoon Walk
+		"wave"			")ui/hitsounds/hitsound206.mp3" // Cartoon hit sound
+		"wave"			")ui/hitsounds/hitsound207.mp3" // Cartoon hit sound
+		"wave"			")ui/hitsounds/hitsound208.mp3" // Cartoon Walk
+		"wave"			")ui/hitsounds/hitsound209.mp3" // Cartoon Walk
+		"wave"			")ui/hitsounds/hitsound210.mp3" // Cartoon Walk
+		"wave"			")ui/hitsounds/hitsound211.mp3" // Cat Meow doorbell
+		"wave"			")ui/hitsounds/hitsound212.mp3" // Cinemasins Ding
+		"wave"			")ui/hitsounds/hitsound213.mp3" // Can Open
+		"wave"			")ui/hitsounds/hitsound214.mp3" // Drum
+		"wave"			")ui/hitsounds/hitsound215.mp3" // Cartoon Fight sound
+		"wave"			")ui/hitsounds/hitsound216.mp3" // Cartoon Fight sound
+		"wave"			")ui/hitsounds/hitsound217.mp3" // Cartoon Fight sound
+		"wave"			")ui/hitsounds/hitsound218.mp3" // Cartoon Fight sound
+		"wave"			")ui/hitsounds/hitsound219.mp3" // Cartoon Fight sound
+		"wave"			")ui/hitsounds/hitsound220.mp3" // MGS !
+		"wave"			")ui/hitsounds/hitsound221.mp3" // MGS Health
+		"wave"			")ui/hitsounds/hitsound222.mp3" // Hl Scientist stop
+		"wave"			")ui/hitsounds/hitsound223.mp3" // Hl Scientist stop
+		"wave"			")ui/hitsounds/hitsound224.mp3" // Hl Scientist stop
+		"wave"			")ui/hitsounds/hitsound225.mp3" // Win XP popup
+		"wave"			")ui/hitsounds/hitsound226.mp3" // Win XP Warning
+		"wave"			")ui/hitsounds/hitsound227.mp3" // NES Zapper
+		"wave"			")ui/hitsounds/hitsound228.mp3" // Mario Party 1-3 Start
+		"wave"			")ui/hitsounds/hitsound229.mp3" // Crazy Taxi Close to Target
+		"wave"			")ui/hitsounds/hitsound230.mp3" // Car Crash
+		"wave"			")ui/hitsounds/hitsound231.mp3" // Car Honk truck
+		"wave"			")ui/hitsounds/hitsound232.mp3" // Car Honk
+		"wave"			")ui/hitsounds/hitsound233.mp3" // Guy Scream
+		"wave"			")ui/hitsounds/hitsound234.mp3" // KH Low Health
+		"wave"			")ui/hitsounds/hitsound235.mp3" // Parrapa Oops
+		"wave"			")ui/hitsounds/hitsound236.mp3" // Crash Bandicoot Box Jump
+		"wave"			")ui/hitsounds/hitsound237.mp3" // Crash Getting Hit
+		"wave"			")ui/hitsounds/hitsound238.mp3" // Tekken Hitsound Hard
+		"wave"			")ui/hitsounds/hitsound239.mp3" // Tekken Hitsound Hard
+		"wave"			")ui/hitsounds/hitsound240.mp3" // Tekken Hitsound
+		"wave"			")ui/hitsounds/hitsound241.mp3" // Duck QUACK
+		"wave"			")ui/hitsounds/hitsound242.mp3" // UWU
+		"wave"			")ui/hitsounds/hitsound243.mp3" // Mouse Click
+		"wave"			")ui/hitsounds/hitsound244.mp3" // Radio noise
+		"wave"			")ui/hitsounds/hitsound245.mp3" // Thanos Rap 1
+		"wave"			")ui/hitsounds/hitsound246.mp3" // Thanos Rap 2
+		"wave"			")ui/hitsounds/hitsound247.mp3" // Justin Timberland OOH
+		"wave"			")ui/hitsounds/hitsound248.mp3" // Cartoon Stretch
+		"wave"			")ui/hitsounds/hitsound249.mp3" // Cat Meow
+		"wave"			")ui/hitsounds/hitsound250.mp3" // Pan sound
+		"wave"			")ui/hitsounds/hitsound251.mp3" // Undertale encounter
+		"wave"			")ui/hitsounds/hitsound252.mp3" // Cat Meow
+		"wave"			")ui/hitsounds/hitsound253.mp3" // Hl Health pickup
+		"wave"			")ui/hitsounds/hitsound254.mp3" // Jerma Gas
+		"wave"			")ui/hitsounds/hitsound255.mp3" // Notification generic
+		"wave"			")ui/hitsounds/hitsound256.mp3" // IPhone Pic
+		"wave"			")ui/hitsounds/hitsound257.mp3" // CJ Ah shit
+		"wave"			")ui/hitsounds/hitsound258.mp3" // Bomb has been planted
+		"wave"			")ui/hitsounds/hitsound259.mp3" // Sonic Rings
+		"wave"			")ui/hitsounds/hitsound260.mp3" // Steam Screenshot
+		"wave"			")ui/hitsounds/hitsound261.mp3" // GTA5 Notification phone
+		"wave"			")ui/hitsounds/hitsound262.mp3" // Pingas
+		"wave"			")ui/hitsounds/hitsound263.mp3" // Xbox Notification
+		"wave"			")ui/hitsounds/hitsound264.mp3" // Amongus ALarm
+		"wave"			")ui/hitsounds/hitsound265.mp3" // OSRS Teleport
+		"wave"			")ui/hitsounds/hitsound266.mp3" // Gabagool Sopranos
+		"wave"			")ui/hitsounds/hitsound267.mp3" // Casino slot
+		"wave"			")ui/hitsounds/hitsound268.mp3" // GTA SA NPC Grunt
+		"wave"			")ui/hitsounds/hitsound269.mp3" // GTA SA NPC Grunt
+		"wave"			")ui/hitsounds/hitsound270.mp3" // GTA SA NPC Grunt
+		"wave"			")ui/hitsounds/hitsound271.mp3" // GTA SA NPC Grunt
+		"wave"			")ui/hitsounds/hitsound272.mp3" // GTA SA NPC Grunt
+		"wave"			")ui/hitsounds/hitsound273.mp3" // GTA SA NPC Grunt
+		"wave"			")ui/hitsounds/hitsound274.mp3" // GTA SA NPC Grunt
+		"wave"			")ui/hitsounds/hitsound275.mp3" // GTA SA NPC Grunt
+		"wave"			")ui/hitsounds/hitsound276.mp3" // GTA SA NPC Grunt
+		"wave"			")ui/hitsounds/hitsound277.mp3" // GTA SA NPC Grunt
+		"wave"			")ui/hitsounds/hitsound278.mp3" // UWU giggle
+		"wave"			")ui/hitsounds/hitsound279.mp3" // Warioware OH YEA
+		"wave"			")ui/hitsounds/hitsound280.mp3" // Drake 
+		"wave"			")ui/hitsounds/hitsound281.mp3" // Minecraft Skele hit
+		"wave"			")ui/hitsounds/hitsound282.mp3" // Clap
+		"wave"			")ui/hitsounds/hitsound283.mp3" // Buzzer Wrong
+		"wave"			")ui/hitsounds/hitsound284.mp3" // Goose
+		"wave"			")ui/hitsounds/hitsound285.mp3" // Cartoon Walk
+		"wave"			")ui/hitsounds/hitsound286.mp3" // Cartoon laugh
+		"wave"			")ui/hitsounds/hitsound287.mp3" // Whip Sound Johnny Test
+		"wave"			")ui/hitsounds/hitsound288.mp3" // Pickup forgot where its from
+		"wave"			")ui/hitsounds/hitsound289.mp3" // OOP from PSI
+		"wave"			")ui/hitsounds/hitsound290.mp3" // SUBUDOLA
+		"wave"			")ui/hitsounds/hitsound291.mp3" // Morshu MMMM
+		"wave"			")ui/hitsounds/hitsound292.mp3" // Mario World Sound Spin
+		"wave"			")ui/hitsounds/hitsound293.mp3" // Mario World Sound
+		"wave"			")ui/hitsounds/hitsound294.mp3" // Mario World Sound
+		"wave"			")ui/hitsounds/hitsound295.mp3" // Mario World Sound
+		"wave"			")ui/hitsounds/hitsound296.mp3" // Toad BUP
+		"wave"			")ui/hitsounds/hitsound297.mp3" // Mario Paint CAT
+		"wave"			")ui/hitsounds/hitsound298.mp3" // FNF Lost
+		"wave"			")ui/hitsounds/hitsound299.mp3" // Sans
+		"wave"			")ui/hitsounds/hitsound300.mp3" // Undertale dog
+		"wave"			")ui/hitsounds/hitsound301.mp3" // Terraria Star
+		"wave"			")ui/hitsounds/hitsound302.mp3" // Terraria Anvil
+		"wave"			")ui/hitsounds/hitsound303.mp3" // Minecraft Anvil
+		"wave"			")ui/hitsounds/hitsound304.mp3" // Mario Paint Dog
+		"wave"			")ui/hitsounds/hitsound305.mp3" // Huh Meme
+		"wave"			")ui/hitsounds/hitsound306.mp3" // Warioland 4 Pickup
+		"wave"			")ui/hitsounds/hitsound307.mp3" // Warioland 4 Pickup
+		"wave"			")ui/hitsounds/hitsound308.mp3"
+		"wave"			")ui/hitsounds/hitsound309.mp3"
+		"wave"			")ui/hitsounds/hitsound310.mp3"
+		"wave"			")ui/hitsounds/hitsound311.mp3"
+		"wave"			")ui/hitsounds/hitsound312.mp3"
+		"wave"			")ui/hitsounds/hitsound313.mp3"
+		"wave"			")ui/hitsounds/hitsound314.mp3"
+		"wave"			")ui/hitsounds/hitsound315.mp3"
+		"wave"			")ui/hitsounds/hitsound316.mp3"
+		"wave"			")ui/hitsounds/hitsound317.mp3"
+		"wave"			")ui/hitsounds/hitsound318.mp3"
+		"wave"			")ui/hitsounds/hitsound319.mp3"
+		"wave"			")ui/hitsounds/hitsound320.mp3"
+		"wave"			")ui/hitsounds/hitsound321.mp3"
+		"wave"			")ui/hitsounds/hitsound322.mp3"
+		"wave"			")ui/hitsounds/hitsound323.mp3"
+		"wave"			")ui/hitsounds/hitsound324.mp3"
+		"wave"			")ui/hitsounds/hitsound325.mp3"
+		"wave"			")ui/hitsounds/hitsound326.mp3"
+		"wave"			")ui/hitsounds/hitsound327.mp3"
+		"wave"			")ui/hitsounds/hitsound328.mp3"
+		"wave"			")ui/hitsounds/hitsound329.mp3"
+		"wave"			")ui/hitsounds/hitsound330.mp3"
+		"wave"			")ui/hitsounds/hitsound331.mp3"
+		"wave"			")ui/hitsounds/hitsound332.mp3"
+		"wave"			")ui/hitsounds/hitsound333.mp3"
+		"wave"			")ui/hitsounds/hitsound334.mp3"
+		"wave"			")ui/hitsounds/hitsound335.mp3"
+		"wave"			")ui/hitsounds/hitsound336.mp3"
+		"wave"			")ui/hitsounds/hitsound337.mp3"
+		"wave"			")ui/hitsounds/hitsound338.mp3"
+		"wave"			")ui/hitsounds/hitsound339.mp3"
+		"wave"			")ui/hitsounds/hitsound340.mp3"
+		"wave"			")ui/hitsounds/hitsound341.mp3"
+		"wave"			")ui/hitsounds/hitsound342.mp3"
+		"wave"			")ui/hitsounds/hitsound343.mp3"
+		"wave"			")ui/hitsounds/hitsound344.mp3"
+		"wave"			")ui/hitsounds/hitsound345.mp3"
+		"wave"			")ui/hitsounds/hitsound346.mp3"
+		"wave"			")ui/hitsounds/hitsound347.mp3"
+		"wave"			")ui/hitsounds/hitsound348.mp3"
+		"wave"			")ui/hitsounds/hitsound349.mp3"
+		"wave"			")ui/hitsounds/hitsound350.mp3"
+		"wave"			")ui/hitsounds/hitsound351.mp3"
+		"wave"			")ui/hitsounds/hitsound352.mp3"
+		"wave"			")ui/hitsounds/hitsound353.mp3"
+		"wave"			")ui/hitsounds/hitsound354.mp3"
+		"wave"			")ui/hitsounds/hitsound355.mp3"
+		"wave"			")ui/hitsounds/hitsound356.mp3"
+		"wave"			")ui/hitsounds/hitsound357.mp3"
+		"wave"			")ui/hitsounds/hitsound358.mp3"
+		"wave"			")ui/hitsounds/hitsound359.mp3"
+		"wave"			")ui/hitsounds/hitsound360.mp3"
+		"wave"			")ui/hitsounds/hitsound361.mp3"
+		"wave"			")ui/hitsounds/hitsound362.mp3"
+		"wave"			")ui/hitsounds/hitsound363.mp3"
+		"wave"			")ui/hitsounds/hitsound364.mp3"
+		"wave"			")ui/hitsounds/hitsound365.mp3"
+		"wave"			")ui/hitsounds/hitsound366.mp3"
+		"wave"			")ui/hitsounds/hitsound367.mp3"
+		"wave"			")ui/hitsounds/hitsound368.mp3"
+		"wave"			")ui/hitsounds/hitsound369.mp3"
+		"wave"			")ui/hitsounds/hitsound370.mp3"
+		"wave"			")ui/hitsounds/hitsound371.mp3"
+		"wave"			")ui/hitsounds/hitsound372.mp3"
+		"wave"			")ui/hitsounds/hitsound373.mp3"
+		"wave"			")ui/hitsounds/hitsound374.mp3"
+		"wave"			")ui/hitsounds/hitsound375.mp3"
+		"wave"			")ui/hitsounds/hitsound376.mp3"
+		"wave"			")ui/hitsounds/hitsound377.mp3"
+		"wave"			")ui/hitsounds/hitsound378.mp3"
+		"wave"			")ui/hitsounds/hitsound379.mp3"
+		"wave"			")ui/hitsounds/hitsound380.mp3"
+		"wave"			")ui/hitsounds/hitsound381.mp3"
+		"wave"			")ui/hitsounds/hitsound382.mp3"
+		"wave"			")ui/hitsounds/hitsound383.mp3"
+		"wave"			")ui/hitsounds/hitsound384.mp3"
+		"wave"			")ui/hitsounds/hitsound385.mp3"
+		"wave"			")ui/hitsounds/hitsound386.mp3"
+		"wave"			")ui/hitsounds/hitsound387.mp3"
+		"wave"			")ui/hitsounds/hitsound388.mp3"
+		"wave"			")ui/hitsounds/hitsound389.mp3"
+		"wave"			")ui/hitsounds/hitsound390.mp3"
+		"wave"			")ui/hitsounds/hitsound391.mp3"
+		"wave"			")ui/hitsounds/hitsound392.mp3"
+		"wave"			")ui/hitsounds/hitsound393.mp3"
+		"wave"			")ui/hitsounds/hitsound394.mp3"
+		"wave"			")ui/hitsounds/hitsound395.mp3"
+		"wave"			")ui/hitsounds/hitsound396.mp3"
+		"wave"			")ui/hitsounds/hitsound397.mp3"
+		"wave"			")ui/hitsounds/hitsound398.mp3"
+		"wave"			")ui/hitsounds/hitsound399.mp3"
+		"wave"			")ui/hitsounds/hitsound400.mp3"
+		"wave"			")ui/hitsounds/hitsound401.mp3"
+		"wave"			")ui/hitsounds/hitsound402.mp3"
+		"wave"			")ui/hitsounds/hitsound403.mp3"
+		"wave"			")ui/hitsounds/hitsound404.mp3"
+		"wave"			")ui/hitsounds/hitsound405.mp3"
+		"wave"			")ui/hitsounds/hitsound406.mp3"
+		"wave"			")ui/hitsounds/hitsound407.mp3"
+		"wave"			")ui/hitsounds/hitsound408.mp3"
+		"wave"			")ui/hitsounds/hitsound409.mp3"
+		"wave"			")ui/hitsounds/hitsound410.mp3"
+		"wave"			")ui/hitsounds/hitsound411.mp3"
+		"wave"			")ui/hitsounds/hitsound412.mp3"
+		"wave"			")ui/hitsounds/hitsound413.mp3"
+		"wave"			")ui/hitsounds/hitsound414.mp3"
+		"wave"			")ui/hitsounds/hitsound415.mp3"
+		"wave"			")ui/hitsounds/hitsound416.mp3"
+		"wave"			")ui/hitsounds/hitsound417.mp3"
+		"wave"			")ui/hitsounds/hitsound418.mp3"
+		"wave"			")ui/hitsounds/hitsound419.mp3"
+		"wave"			")ui/hitsounds/hitsound420.mp3"
+		"wave"			")ui/hitsounds/hitsound421.mp3"
+		"wave"			")ui/hitsounds/hitsound422.mp3"
+		"wave"			")ui/hitsounds/hitsound423.mp3"
+		"wave"			")ui/hitsounds/hitsound424.mp3"
+		"wave"			")ui/hitsounds/hitsound425.mp3"
+		"wave"			")ui/hitsounds/hitsound426.mp3"
+		"wave"			")ui/hitsounds/hitsound427.mp3"
+		"wave"			")ui/hitsounds/hitsound428.mp3"
+		"wave"			")ui/hitsounds/hitsound429.mp3"
+		"wave"			")ui/hitsounds/hitsound430.mp3"
+		"wave"			")ui/hitsounds/hitsound431.mp3"
+		"wave"			")ui/hitsounds/hitsound432.mp3"
+		"wave"			")ui/hitsounds/hitsound433.mp3"
+		"wave"			")ui/hitsounds/hitsound434.mp3"
+		"wave"			")ui/hitsounds/hitsound435.mp3"
+		"wave"			")ui/hitsounds/hitsound436.mp3"
+		"wave"			")ui/hitsounds/hitsound437.mp3"
+		"wave"			")ui/hitsounds/hitsound438.mp3"
+		"wave"			")ui/hitsounds/hitsound439.mp3"
+		"wave"			")ui/hitsounds/hitsound440.mp3"
+		"wave"			")ui/hitsounds/hitsound441.mp3"
+		"wave"			")ui/hitsounds/hitsound442.mp3"
+		"wave"			")ui/hitsounds/hitsound443.mp3"
+		"wave"			")ui/hitsounds/hitsound444.mp3"
+		"wave"			")ui/hitsounds/hitsound445.mp3"
+		"wave"			")ui/hitsounds/hitsound446.mp3"
+		"wave"			")ui/hitsounds/hitsound447.mp3"
+		"wave"			")ui/hitsounds/hitsound448.mp3"
+		"wave"			")ui/hitsounds/hitsound449.mp3"
+		"wave"			")ui/hitsounds/hitsound450.mp3"
+		"wave"			")ui/hitsounds/hitsound451.mp3"
+		"wave"			")ui/hitsounds/hitsound452.mp3"
+		"wave"			")ui/hitsounds/hitsound453.mp3"
+		"wave"			")ui/hitsounds/hitsound454.mp3"
+		"wave"			")ui/hitsounds/hitsound455.mp3"
+		"wave"			")ui/hitsounds/hitsound456.mp3"
+		"wave"			")ui/hitsounds/hitsound457.mp3"
+		"wave"			")ui/hitsounds/hitsound458.mp3"
+	}
+}

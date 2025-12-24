@@ -1,0 +1,18 @@
+Mod Used: https://gamebanana.com/wips/90778
+
+Modified Audiojungle mod.
+Only includes:
+- Killsounds
+- Hitsounds
+- Killstreaks
+- Dominations and revenge
+- Losing and winning
+- Conga sounds
+- Voting
+- Class menu music and selection
+With new additions:
+- Added chat sounds
+- New killstreak sounds
+- New conga sound
+- Added level up sound (Casual and Competitive)
+- Added contract completion sounds

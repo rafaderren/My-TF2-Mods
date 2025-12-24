@@ -1,0 +1,24 @@
+"HudChat.Message"
+{
+	"channel"	"CHAN_STREAM"
+	"volume"	"VOL_NORM"
+	"soundlevel"  "SNDLVL_NONE"
+	"pitch"	"PITCH_NORM"
+
+	"wave"	"ui/chatsounds/chat1.wav"
+	"wave"	"ui/chatsounds/chat2.wav"
+	"wave"	"ui/chatsounds/chat3.wav"
+	"wave"	"ui/chatsounds/chat4.wav"
+	"wave"	"ui/chatsounds/chat5.wav"
+	"wave"	"ui/chatsounds/chat6.wav"
+}
+
+"Chat.DisplayText"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"pitch"			"100"
+	"soundlevel"  	"SNDLVL_NORM"
+	
+	"wave"	"ui/chat_display_text.wav"
+}

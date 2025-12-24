@@ -1,0 +1,1 @@
+Changes freeze cam sound to Day of Defeat: Source freezecam

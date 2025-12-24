@@ -1,0 +1,17 @@
+Gamebanana Page: https://gamebanana.com/mods/640649
+Mods Used:
+- https://gamebanana.com/mods/197231
+- https://gamebanana.com/mods/418199
+- https://gamebanana.com/mods/431399
+- https://gamebanana.com/mods/516361
+- https://gamebanana.com/mods/203319
+
+This is a requested mod
+This mod is a combination of:
+- Realistic Bolt Overhaul
+- New Sniper Viewmodel Hands + SMG Shell Ejection
+- SMG and Cleaner's Carbine Bullets Fix
+Extra includes (as the requester requested):
+- TF2C Huntsman Port
+- RBO Sydney Sleeper
+If you would like to see or use raw files and viewmodel files of the mod download sniperfixesmerged_source

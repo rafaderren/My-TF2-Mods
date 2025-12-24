@@ -1,0 +1,11 @@
+Mods Used:
+- https://gamebanana.com/mods/206241
+- https://gamebanana.com/mods/206440
+
+This is a modification of Kylul's animations
+A combination of TF2's viewmodel animation and Kylul's animations
+Currently this pack has:
+- Pyro
+- Soldier
+- Medic
+- Demoman

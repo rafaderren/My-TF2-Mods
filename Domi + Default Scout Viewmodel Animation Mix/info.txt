@@ -1,0 +1,4 @@
+Mod used: https://gamebanana.com/mods/404890
+
+This is a modification of Domi's Scout Animation Pack
+A combination of TF2's viewmodel animation and Domi's animations

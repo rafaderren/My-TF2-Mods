@@ -1,0 +1,4 @@
+Mod Used: https://gamebanana.com/mods/640250
+
+This is a modification of Lucy Icons for the ZeesHUD
+Turns the Lucy icons into an addon over replacing scouts textures
