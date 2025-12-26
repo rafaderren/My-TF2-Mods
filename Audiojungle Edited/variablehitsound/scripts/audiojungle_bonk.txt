@@ -1,0 +1,31 @@
+// 8 Secs
+"Scout.DodgeCanDrinkFast"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_84dB"
+	"pitch"		"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast1.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast2.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast3.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast4.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast5.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast6.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast7.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast8.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast9.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast10.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast11.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast12.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast13.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast14.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast15.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast16.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast17.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast18.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast19.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast20.mp3"
+	}
+}

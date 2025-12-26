@@ -1,5 +1,7 @@
 game_sounds_manifest
 {
+	"precache_file"		"custom/variablehitsound/scripts/audiojungle_bonk.txt"
+	"precache_file"		"custom/variablehitsound/scripts/audiojungle_charge.txt"
 	"precache_file"		"custom/variablehitsound/scripts/audiojungle_chatsound.txt"
 	"precache_file"		"custom/variablehitsound/scripts/audiojungle_hitsounds.txt"
 	"precache_file"		"custom/variablehitsound/scripts/audiojungle_killsounds.txt"
@@ -8,7 +10,7 @@ game_sounds_manifest
 	"precache_file"		"custom/variablehitsound/scripts/audiojungle_gamestatemusic.txt"
 	"precache_file"		"custom/variablehitsound/scripts/audiojungle_votes.txt"
 	"precache_file"		"custom/variablehitsound/scripts/audiojungle_music.txt"
-	"precache_file"		"custom/variablehitsound/scripts/mvm_ready_lines.txt"
+//	"precache_file"		"custom/variablehitsound/scripts/mvm_ready_lines.txt"
 
 	"precache_file"		"scripts/game_sounds.txt"	
 	"precache_file"  	"scripts/game_sounds_physics.txt"
