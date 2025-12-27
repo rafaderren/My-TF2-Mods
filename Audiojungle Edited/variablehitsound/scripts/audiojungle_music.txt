@@ -475,6 +475,7 @@
 		"wave"	")*ui/conga/conga155.wav"
 		"wave"	")*ui/conga/conga156.wav"
 		"wave"	")*ui/conga/conga157.wav"
+		"wave"	")*ui/conga/conga158.wav"
 	}
 }
 
@@ -643,6 +644,7 @@
 		"wave"	")*ui/conga/conga155.wav"
 		"wave"	")*ui/conga/conga156.wav"
 		"wave"	")*ui/conga/conga157.wav"
+		"wave"	")*ui/conga/conga158.wav"
 	}
 }
 
@@ -811,6 +813,7 @@
 		"wave"	")*ui/conga/conga155.wav"
 		"wave"	")*ui/conga/conga156.wav"
 		"wave"	")*ui/conga/conga157.wav"
+		"wave"	")*ui/conga/conga158.wav"
 	}
 	 
 }
