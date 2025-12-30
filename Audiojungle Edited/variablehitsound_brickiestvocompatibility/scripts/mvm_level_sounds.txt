@@ -1915,7 +1915,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/quick_fix_heal.wav"
+	"wave"		")ui/weapons/quick_fix_heal.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -1926,7 +1926,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/medigun_heal.wav"
+	"wave"		")ui/weapons/medigun_heal.wav"
 }
 
 "WeaponMedigun.HealingTarget"
@@ -1934,7 +1934,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.350000"
-	"wave"		")weapons/medigun_heal.wav"
+	"wave"		")ui/weapons/medigun_heal.wav"
 }
 
 "WeaponMedigun.HealingWorld"
@@ -1942,7 +1942,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_64dB"
 	"volume"	"0.525000"
-	"wave"		")weapons/medigun_heal.wav"
+	"wave"		")ui/weapons/medigun_heal.wav"
 }
 
 "WeaponMedigun.HealingDisrupt"
@@ -1958,7 +1958,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.525000"
-	"wave"		")weapons/medigun_heal_detach.wav"
+	"wave"		")ui/weapons/medigun_heal_detach.wav"
 }
 
 "WeaponMedigun.HealingDetachTarget"
@@ -1966,7 +1966,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/medigun_heal_detach.wav"
+	"wave"		")ui/weapons/medigun_heal_detach.wav"
 }
 
 "WeaponMedigun.HealingDetachWorld"
@@ -1974,7 +1974,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_64dB"
 	"volume"	"0.525000"
-	"wave"		")weapons/medigun_heal_detach.wav"
+	"wave"		")ui/weapons/medigun_heal_detach.wav"
 }
 
 "WeaponMedigun.Charged"
@@ -2023,7 +2023,7 @@
 	"channel"	"CHAN_AUTO"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.5"
-	"wave"		"weapons/draw_medigun.wav"
+	"wave"		"ui/weapons/draw_medigun.wav"
 }
 
 
@@ -2193,7 +2193,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/tomislav_shoot.wav"
+	"wave"		")ui/weapons/tomislav_shoot.wav"
 }
 
 "Weapon_Tomislav.FireCrit"	
@@ -2201,7 +2201,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/tomislav_shoot_crit.wav"
+	"wave"		")ui/weapons/tomislav_shoot_crit.wav"
 }
 
 "Weapon_Tomislav.WindDown"	
@@ -2721,7 +2721,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/tf2_backshot_shotty.wav"
+	"wave"		")ui/weapons/tf2_backshot_shotty.wav"
 }
 
 "Weapon_BackShot_Shotty.SingleCrit"
@@ -2729,7 +2729,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/tf2_backshot_shotty_crit.wav"
+	"wave"		")ui/weapons/tf2_backshot_shotty_crit.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -6855,7 +6855,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.700000"
-	"wave"		")weapons\vaccinator_heal.wav"
+	"wave"		")ui\weapons\vaccinator_heal.wav"
 }
 
 "WeaponMedigun_Vaccinator.Charged_tier_01"
@@ -9170,7 +9170,7 @@
 	"volume"	"0.700000"
 	"soundlevel"	"SNDLVL_74dB"
 	"pitch"		"PITCH_NORM"
-	"wave"		"player/pl_scout_dodge_tired.wav"
+	"wave"		"misc/player/pl_scout_dodge_tired.wav"
 }
 
 "Player.Spawn"
@@ -9643,16 +9643,16 @@
 	"soundlevel"  	"SNDLVL_75dB"	
 	"rndwave"
 	{
-		"wave"		"player/shove1.wav"
-		"wave"		"player/shove2.wav"
-		"wave"		"player/shove3.wav"
-		"wave"		"player/shove4.wav"
-		"wave"		"player/shove5.wav"
-		"wave"		"player/shove6.wav"	
-		"wave"		"player/shove7.wav"
-		"wave"		"player/shove8.wav"
-		"wave"		"player/shove9.wav"
-		"wave"		"player/shove10.wav"
+		"wave"		"misc/player/shove1.wav"
+		"wave"		"misc/player/shove2.wav"
+		"wave"		"misc/player/shove3.wav"
+		"wave"		"misc/player/shove4.wav"
+		"wave"		"misc/player/shove5.wav"
+		"wave"		"misc/player/shove6.wav"	
+		"wave"		"misc/player/shove7.wav"
+		"wave"		"misc/player/shove8.wav"
+		"wave"		"misc/player/shove9.wav"
+		"wave"		"misc/player/shove10.wav"
 	}
 }
 

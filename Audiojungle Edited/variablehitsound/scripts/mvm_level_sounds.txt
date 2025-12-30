@@ -1915,7 +1915,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/quick_fix_heal.wav"
+	"wave"		")ui/weapons/quick_fix_heal.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -1926,7 +1926,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/medigun_heal.wav"
+	"wave"		")ui/weapons/medigun_heal.wav"
 }
 
 "WeaponMedigun.HealingTarget"
@@ -1934,7 +1934,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.350000"
-	"wave"		")weapons/medigun_heal.wav"
+	"wave"		")ui/weapons/medigun_heal.wav"
 }
 
 "WeaponMedigun.HealingWorld"
@@ -1942,7 +1942,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_64dB"
 	"volume"	"0.525000"
-	"wave"		")weapons/medigun_heal.wav"
+	"wave"		")ui/weapons/medigun_heal.wav"
 }
 
 "WeaponMedigun.HealingDisrupt"
@@ -1958,7 +1958,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.525000"
-	"wave"		")weapons/medigun_heal_detach.wav"
+	"wave"		")ui/weapons/medigun_heal_detach.wav"
 }
 
 "WeaponMedigun.HealingDetachTarget"
@@ -1966,7 +1966,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/medigun_heal_detach.wav"
+	"wave"		")ui/weapons/medigun_heal_detach.wav"
 }
 
 "WeaponMedigun.HealingDetachWorld"
@@ -1974,7 +1974,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_64dB"
 	"volume"	"0.525000"
-	"wave"		")weapons/medigun_heal_detach.wav"
+	"wave"		")ui/weapons/medigun_heal_detach.wav"
 }
 
 "WeaponMedigun.Charged"
@@ -2023,7 +2023,7 @@
 	"channel"	"CHAN_AUTO"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.5"
-	"wave"		"weapons/draw_medigun.wav"
+	"wave"		"ui/weapons/draw_medigun.wav"
 }
 
 
@@ -2193,7 +2193,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/tomislav_shoot.wav"
+	"wave"		")ui/weapons/tomislav_shoot.wav"
 }
 
 "Weapon_Tomislav.FireCrit"	
@@ -2201,7 +2201,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/tomislav_shoot_crit.wav"
+	"wave"		")ui/weapons/tomislav_shoot_crit.wav"
 }
 
 "Weapon_Tomislav.WindDown"	
@@ -2721,7 +2721,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/tf2_backshot_shotty.wav"
+	"wave"		")ui/weapons/tf2_backshot_shotty.wav"
 }
 
 "Weapon_BackShot_Shotty.SingleCrit"
@@ -2729,7 +2729,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"0.700000"
-	"wave"		")weapons/tf2_backshot_shotty_crit.wav"
+	"wave"		")ui/weapons/tf2_backshot_shotty_crit.wav"
 }
 
 // ------------------------------------------------------------------------------------ //
@@ -5147,12 +5147,84 @@
 {
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_94dB"
-	"volume"	"0.700000"
+	"volume"	"1.0"
 	"rndwave"
 	{
-		"wave"		"weapons/demo_charge_windup1.wav"
-		"wave"		"weapons/demo_charge_windup2.wav"
-		"wave"		"weapons/demo_charge_windup3.wav"
+		"wave"		"ui/weapons/charge/demo_charge_windup1.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup2.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup3.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup4.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup5.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup6.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup7.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup8.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup9.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup10.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup11.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup12.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup13.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup14.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup15.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup16.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup17.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup18.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup19.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup20.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup21.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup22.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup23.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup24.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup25.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup26.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup27.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup28.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup29.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup30.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup31.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup32.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup33.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup34.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup35.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup36.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup37.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup38.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup39.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup40.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup41.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup42.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup43.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup44.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup45.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup46.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup47.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup48.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup49.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup50.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup51.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup52.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup53.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup54.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup55.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup56.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup57.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup58.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup59.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup60.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup61.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup62.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup63.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup64.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup65.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup66.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup67.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup68.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup69.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup70.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup71.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup72.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup73.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup74.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup75.mp3"
 	}
 }
 
@@ -6855,7 +6927,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_74dB"
 	"volume"	"0.700000"
-	"wave"		")weapons\vaccinator_heal.wav"
+	"wave"		")ui\weapons\vaccinator_heal.wav"
 }
 
 "WeaponMedigun_Vaccinator.Charged_tier_01"
@@ -9129,11 +9201,33 @@
 
 "Scout.DodgeCanDrinkFast"
 {
-	"channel"		"CHAN_WEAPON"
-	"volume"	"0.175000"
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
 	"soundlevel"	"SNDLVL_84dB"
 	"pitch"		"PITCH_NORM"
-	"wave"		"player/pl_scout_dodge_can_drink_fast.wav"
+	"rndwave"
+	{
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast1.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast2.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast3.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast4.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast5.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast6.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast7.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast8.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast9.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast10.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast11.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast12.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast13.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast14.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast15.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast16.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast17.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast18.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast19.mp3"
+		"wave"	"ui/weapons/bonk/pl_scout_dodge_can_drink_fast20.mp3"
+	}
 }
 
 "Scout.DodgeCanDrink"
@@ -20539,15 +20633,6 @@
 	"soundlevel"  	"SNDLVL_85dB"
 	"pitch"			"PITCH_NORM"
 	"wave"		"ambient/hallowloop.wav"
-}
-
-"Vote.Created"
-{
-	"channel"	"CHAN_STATIC"
-	"soundlevel" 	"SNDLVL_NORM"
-	"pitch"		"PITCH_NORM"
-
-	"wave"		"UI/vote_started.wav"
 }
 
 "Vote.Created"

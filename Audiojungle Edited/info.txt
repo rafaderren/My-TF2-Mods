@@ -1,4 +1,8 @@
-Mod Used: https://gamebanana.com/wips/90778
+Mods Used: 
+- https://gamebanana.com/wips/90778
+- https://gamebanana.com/sounds/50051
+- https://gamebanana.com/sounds/84537
+- https://gamebanana.com/sounds/47174
 
 Modified Audiojungle mod.
 Only includes:
@@ -16,3 +20,6 @@ With new additions:
 - New conga sound
 - Added level up sound (Casual and Competitive)
 - Added contract completion sounds
+- TF2C Medigun handle sounds
+- Beefier Panic Attack sound
+- True fire rate Tomislav sound
