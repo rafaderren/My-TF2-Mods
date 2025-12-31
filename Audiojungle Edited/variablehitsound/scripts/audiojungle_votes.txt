@@ -127,6 +127,7 @@
 		"wave"		"UI/voting/vote_yes25.mp3"
 		"wave"		"UI/voting/vote_yes26.mp3"
 		"wave"		"UI/voting/vote_yes27.mp3"
+		"wave"		"UI/voting/vote_yes28.mp3"
 	}
 	
 }
@@ -157,5 +158,6 @@
 		"wave"		"UI/voting/vote_no16.mp3"
 		"wave"		"UI/voting/vote_no17.mp3"
 		"wave"		"UI/voting/vote_no18.mp3"
+		"wave"		"UI/voting/vote_no19.mp3"
 	}
 }
