@@ -79,7 +79,7 @@
 		"wave"	"ui/classmenu/class_menu_bg71.mp3"
 		"wave"	"ui/classmenu/class_menu_bg72.mp3"
 		"wave"	"ui/classmenu/class_menu_bg73.mp3"
-		"wave"	"ui/classmenu/class_menu_bg74.mp3"
+		"wave"	"ui/classmenu/class_menu_bg74.wav"
 	}
 }
 
@@ -163,7 +163,7 @@
 		"wave"	"ui/classmenu/class_menu_bg71.mp3"
 		"wave"	"ui/classmenu/class_menu_bg72.mp3"
 		"wave"	"ui/classmenu/class_menu_bg73.mp3"
-		"wave"	"ui/classmenu/class_menu_bg74.mp3"
+		"wave"	"ui/classmenu/class_menu_bg74.wav"
 		"wave"	"#*music/mvm_class_menu_bg.wav"
 	}
 }
