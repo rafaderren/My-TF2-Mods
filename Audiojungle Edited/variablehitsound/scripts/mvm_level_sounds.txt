@@ -22646,6 +22646,7 @@
 		"wave"	"ui/mm/win/mm_match_end_win_music_casual39.mp3"
 		"wave"	"ui/mm/win/mm_match_end_win_music_casual40.mp3"
 		"wave"	"ui/mm/win/mm_match_end_win_music_casual41.mp3"
+		"wave"	"ui/mm/win/mm_match_end_win_music_casual42.mp3"
 	}
 }
 
@@ -22678,6 +22679,7 @@
 		"wave"	"ui/mm/lose/mm_match_end_lose_music_casual18.mp3"
 		"wave"	"ui/mm/lose/mm_match_end_lose_music_casual19.mp3"
 		"wave"	"ui/mm/lose/mm_match_end_lose_music_casual20.mp3"
+		"wave"	"ui/mm/lose/mm_match_end_lose_music_casual21.mp3"
 	}
 }
 
