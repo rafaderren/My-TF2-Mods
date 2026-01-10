@@ -80,5 +80,6 @@
 		"wave"		"ui/weapons/charge/demo_charge_windup73.mp3"
 		"wave"		"ui/weapons/charge/demo_charge_windup74.mp3"
 		"wave"		"ui/weapons/charge/demo_charge_windup75.mp3"
+		"wave"		"ui/weapons/charge/demo_charge_windup76.mp3"
 	}
 }
