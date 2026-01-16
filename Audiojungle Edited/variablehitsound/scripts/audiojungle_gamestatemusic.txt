@@ -55,6 +55,13 @@
 		"wave"  "#ui/team_lost/your_team_lost46.mp3"
 		"wave"  "#ui/team_lost/your_team_lost47.mp3"
 		"wave"  "#ui/team_lost/your_team_lost48.mp3"
+		"wave"  "#ui/team_lost/your_team_lost49.mp3"
+		"wave"  "#ui/team_lost/your_team_lost50.mp3"
+		"wave"  "#ui/team_lost/your_team_lost51.mp3"
+		"wave"  "#ui/team_lost/your_team_lost52.mp3"
+		"wave"  "#ui/team_lost/your_team_lost53.mp3"
+		"wave"  "#ui/team_lost/your_team_lost54.mp3"
+		"wave"  "#ui/team_lost/your_team_lost55.mp3"
 	}
 
 }
@@ -132,6 +139,13 @@
 		"wave"  "#ui/team_win/your_team_won62.mp3"
 		"wave"  "#ui/team_win/your_team_won63.mp3"
 		"wave"  "#ui/team_win/your_team_won64.mp3"
+		"wave"  "#ui/team_win/your_team_won65.mp3"
+		"wave"  "#ui/team_win/your_team_won66.mp3"
+		"wave"  "#ui/team_win/your_team_won67.mp3"
+		"wave"  "#ui/team_win/your_team_won68.mp3"
+		"wave"  "#ui/team_win/your_team_won69.mp3"
+		"wave"  "#ui/team_win/your_team_won70.mp3"
+		"wave"  "#ui/team_win/your_team_won71.mp3"
 	}
 
 }
