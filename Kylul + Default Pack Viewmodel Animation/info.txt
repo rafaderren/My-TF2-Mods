@@ -1,6 +1,7 @@
 Mods Used:
 - https://gamebanana.com/mods/206241
 - https://gamebanana.com/mods/206440
+- https://gamebanana.com/mods/206382
 
 This is a modification of Kylul's animations
 A combination of TF2's viewmodel animation and Kylul's animations
@@ -9,3 +10,5 @@ Currently this pack has:
 - Soldier
 - Medic
 - Demoman
+Also includes:
+- Half Life 1 Style Shotgun Animations for Soldier
