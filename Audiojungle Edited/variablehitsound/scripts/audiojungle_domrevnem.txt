@@ -52,6 +52,7 @@
 		"wave"  "#ui/nemesisrevenge/sound43.mp3"
 		"wave"  "#ui/nemesisrevenge/sound44.mp3"
 		"wave"  "#ui/nemesisrevenge/sound45.mp3"
+		"wave"  "#ui/nemesisrevenge/sound46.mp3"
 	}
 }
 
@@ -110,6 +111,7 @@
 		"wave"  "#ui/nemesisrevenge/sound43.mp3"
 		"wave"  "#ui/nemesisrevenge/sound44.mp3"
 		"wave"  "#ui/nemesisrevenge/sound45.mp3"
+		"wave"  "#ui/nemesisrevenge/sound46.mp3"
 	}
 
 }
