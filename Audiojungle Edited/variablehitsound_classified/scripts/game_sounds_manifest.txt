@@ -1,0 +1,45 @@
+game_sounds_manifest
+{
+	"precache_file"		"custom/variablehitsound_classified/scripts/nonaudiojunglescripts/variablehitsound_chatsound.txt"
+	"precache_file"		"custom/variablehitsound_classified/scripts/nonaudiojunglescripts/variablehitsound_firstblood.txt"
+	//"precache_file"		"custom/variablehitsound_classified/scripts/nonaudiojunglescripts/variablehitsound_freezecam.txt"
+	"precache_file"		"custom/variablehitsound_classified/scripts/nonaudiojunglescripts/variablehitsound_overtime.txt"
+	"precache_file"		"custom/variablehitsound_classified/scripts/audiojungle_hitsounds.txt"
+	"precache_file"		"custom/variablehitsound_classified/scripts/audiojungle_killsounds.txt"
+	"precache_file"		"custom/variablehitsound_classified/scripts/audiojungle_domrevnem.txt"
+	"precache_file"		"custom/variablehitsound_classified/scripts/audiojungle_gamestatemusic.txt"
+	"precache_file"		"custom/variablehitsound_classified/scripts/audiojungle_music.txt"
+	"precache_file"		"custom/variablehitsound_classified/scripts/audiojungle_uisounds.txt"
+	"precache_file"		"custom/variablehitsound_classified/scripts/audiojungle_votes.txt"
+
+	"precache_file"		"scripts/game_sounds_tf2c.txt"	
+	"precache_file"		"scripts/game_sounds.txt"	
+	"precache_file"  	"scripts/game_sounds_physics_tf2c.txt"
+	"precache_file"  	"scripts/game_sounds_weapons_tf2c.txt"
+	"precache_file"  	"scripts/game_sounds_weapons.txt"
+	"precache_file"  	"scripts/game_sounds_vo_tf2c.txt"
+	"precache_file"  	"scripts/game_sounds_vo.txt"
+	"precache_file"  	"scripts/game_sounds_vo_handmade.txt"
+	"precache_file"  	"scripts/game_sounds_music_tf2c.txt"
+	"precache_file"  	"scripts/game_sounds_music.txt"
+
+	"preload_file"  	"scripts/game_sounds_player_tf2c.txt"
+	"preload_file"  	"scripts/game_sounds_player.txt"
+
+	"precache_file"  	"scripts/game_sounds_mvm.txt"
+//	"preload_file"  	"scripts/game_sounds_vo_mvm.txt"
+//	"preload_file"  	"scripts/game_sounds_vo_mvm_mighty.txt"
+	"precache_file"  	"scripts/game_sounds_vo_mvm_handmade.txt"
+
+//	"precache_file" 	"scripts/mvm_level_sounds.txt"
+	"precache_file"  	"scripts/game_sounds_vo_rd_robots.txt"
+	"precache_file"  	"scripts/game_sounds_vo_taunts.txt"
+
+//	"precache_file"		"scripts/game_sounds_taunt_workshop.txt"
+
+//	"precache_file"  	"scripts/game_sounds_vo_pauling.txt"
+//	"precache_file"  	"scripts/game_sounds_vo_merasmus.txt"
+//	"precache_file"		"scripts/game_sounds_vo_tough_break.txt"
+
+	"precache_file"  	"scripts/game_sounds_passtime.txt"
+}

@@ -1,0 +1,7 @@
+"TFPlayer.FreezeCam"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	".75"
+	"soundlevel"  	"SNDLVL_75dB"
+	"wave"		"ui/freezecam/freeze_cam.mp3"
+}

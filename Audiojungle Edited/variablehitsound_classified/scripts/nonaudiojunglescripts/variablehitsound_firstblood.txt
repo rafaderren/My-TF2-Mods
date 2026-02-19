@@ -1,0 +1,89 @@
+"Announcer.AM_FirstBloodRandom"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"			
+	{
+		"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood01.mp3"
+		"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood02.mp3"
+		"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood04.mp3"
+		"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood05.mp3"
+	}
+}
+
+"Announcer.AM_FirstBloodFinally"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood03.mp3"
+}
+
+"Announcer.AM_FirstBloodFast"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood06.mp3"
+}
+
+
+"Announcer.AM_FirstBlood01"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood01.mp3"
+}
+
+"Announcer.AM_FirstBlood03"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood03.mp3"
+}
+
+"Announcer.AM_FirstBlood05"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood05.mp3"
+}
+
+"Announcer.AM_FirstBlood02"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood02.mp3"
+}
+
+"Announcer.AM_FirstBlood04"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood04.mp3"
+}
+
+"Announcer.AM_FirstBlood06"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/firstblood/announcer_AM_FirstBlood06.mp3"
+}

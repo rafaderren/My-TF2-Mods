@@ -1,0 +1,18 @@
+"Game.Overtime"
+{
+	"channel"	"CHAN_VOICE2"
+	"volume"	"1"
+	"soundlevel"	"SNDLVL_140dB"
+	"pitch"		"PITCH_NORM"
+	"rndwave"
+	{
+		"wave"	"ui/administrator/overtime/announcer_overtime.mp3"
+		"wave"	"ui/administrator/overtime/announcer_overtime2.mp3"
+		"wave"	"ui/administrator/overtime/announcer_overtime3.mp3"
+		"wave"	"ui/administrator/overtime/announcer_overtime4.mp3"
+		//"wave"	"ui/administrator/overtime/announcer_overtime_old.mp3"
+		//"wave"	"ui/administrator/overtime/announcer_overtime2_old.mp3"
+		//"wave"	"ui/administrator/overtime/announcer_overtime3_old.mp3"
+		//"wave"	"ui/administrator/overtime/announcer_overtime4_old.mp3"
+	}
+}

@@ -1,0 +1,15 @@
+"HudChat.Message"
+{
+	"channel"	"CHAN_STREAM"
+	"volume"	"VOL_NORM"
+	"soundlevel"  "SNDLVL_NONE"
+	"pitch"	"PITCH_NORM"
+
+	//"wave"	"misc/message.wav"
+	"wave"	"ui/chatsounds/chat1.mp3"
+	"wave"	"ui/chatsounds/chat2.mp3"
+	"wave"	"ui/chatsounds/chat3.mp3"
+	"wave"	"ui/chatsounds/chat4.mp3"
+	"wave"	"ui/chatsounds/chat5.mp3"
+	"wave"	"ui/chatsounds/chat7.mp3"
+}

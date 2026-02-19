@@ -6,21 +6,4 @@ Mods Used:
 - https://gamebanana.com/sounds/85146
 
 Modified Audiojungle mod.
-Only includes:
-- Killsounds
-- Hitsounds
-- Killstreaks
-- Dominations and revenge
-- Losing and winning
-- Conga sounds
-- Voting
-- Class menu music and selection
-With new additions:
-- Added chat sounds
-- New killstreak sounds
-- New conga sound
-- Added level up sound (Casual and Competitive)
-- Added contract completion sounds
-- TF2C Medigun handle sounds
-- Beefier Panic Attack sound
-- True fire rate Tomislav sound
+Also includes version for TF2 Classified.
