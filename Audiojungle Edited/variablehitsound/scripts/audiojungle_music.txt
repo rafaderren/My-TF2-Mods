@@ -170,6 +170,8 @@
 		"wave"	"ui/classmenu/class_menu_bg74.wav"
 		"wave"	"ui/classmenu/class_menu_bg75.wav"
 		"wave"	"ui/classmenu/class_menu_bg76.wav"
+		"wave"	"ui/classmenu/class_menu_bg77.wav"
+		"wave"	"ui/classmenu/class_menu_bg78.wav"
 		"wave"	"#*music/mvm_class_menu_bg.wav"
 	}
 }
