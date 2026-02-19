@@ -1,0 +1,10 @@
+"Announcer.RoundEnds30seconds"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NONE"
+
+	"wave"			"ui/administrator/announcer_ends_30sec.mp3"
+}

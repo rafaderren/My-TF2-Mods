@@ -1,7 +1,11 @@
 game_sounds_manifest
 {
+//	"precache_file"		"custom/variablehitsound/scripts/nonaudiojunglescripts/variablehitsound_30sec.txt"
 	"precache_file"		"custom/variablehitsound/scripts/nonaudiojunglescripts/variablehitsound_chatsound.txt"
+	"precache_file"		"custom/variablehitsound/scripts/nonaudiojunglescripts/variablehitsound_firstblood.txt"
+	"precache_file"		"custom/variablehitsound/scripts/nonaudiojunglescripts/variablehitsound_freezecam.txt"
 	"precache_file"		"custom/variablehitsound/scripts/nonaudiojunglescripts/variablehitsound_medigun.txt"
+	"precache_file"		"custom/variablehitsound/scripts/nonaudiojunglescripts/variablehitsound_overtime.txt"
 	"precache_file"		"custom/variablehitsound/scripts/nonaudiojunglescripts/variablehitsound_panicattack.txt"
 	"precache_file"		"custom/variablehitsound/scripts/nonaudiojunglescripts/variablehitsound_restoredmightyvo.txt"
 	"precache_file"		"custom/variablehitsound/scripts/nonaudiojunglescripts/variablehitsound_restoredmvmsounds.txt"

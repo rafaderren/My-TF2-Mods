@@ -405,5 +405,6 @@
 		"wave"			")ui/killsounds/killsound396.mp3"
 		"wave"			")ui/killsounds/killsound397.mp3"
 		"wave"			")ui/killsounds/killsound398.mp3"
+		"wave"			")ui/killsounds/killsound399.mp3"
 	}
 }

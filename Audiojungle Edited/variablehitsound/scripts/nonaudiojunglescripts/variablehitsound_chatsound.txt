@@ -11,6 +11,7 @@
 	"wave"	"ui/chatsounds/chat4.wav"
 //	"wave"	"ui/chatsounds/chat5.wav"
 	"wave"	"ui/chatsounds/chat6.wav"
+	"wave"	"ui/chatsounds/chat7.mp3"
 }
 
 "Chat.DisplayText"

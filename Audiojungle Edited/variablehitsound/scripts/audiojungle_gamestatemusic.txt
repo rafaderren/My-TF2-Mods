@@ -62,6 +62,7 @@
 		"wave"  "#ui/team_lost/your_team_lost53.mp3"
 		"wave"  "#ui/team_lost/your_team_lost54.mp3"
 		"wave"  "#ui/team_lost/your_team_lost55.mp3"
+		"wave"  "#ui/team_lost/your_team_lost56.mp3"
 	}
 
 }
@@ -146,6 +147,7 @@
 		"wave"  "#ui/team_win/your_team_won69.mp3"
 		"wave"  "#ui/team_win/your_team_won70.mp3"
 		"wave"  "#ui/team_win/your_team_won71.mp3"
+		"wave"  "#ui/team_win/your_team_won72.mp3"
 	}
 
 }
@@ -307,6 +309,12 @@
 		"wave"	"ui/mm/start/mm_round_start_casual46.mp3"
 		"wave"	"ui/mm/start/mm_round_start_casual47.mp3"
 		"wave"	"ui/mm/start/mm_round_start_casual48.mp3"
+		"wave"	"ui/mm/start/mm_round_start_casual49.mp3"
+		"wave"	"ui/mm/start/mm_round_start_casual50.mp3"
+		"wave"	"ui/mm/start/mm_round_start_casual51.mp3"
+		"wave"	"ui/mm/start/mm_round_start_casual52.mp3"
+		"wave"	"ui/mm/start/mm_round_start_casual53.mp3"
+		"wave"	"ui/mm/start/mm_round_start_casual54.mp3"
 	}
 }
 
@@ -361,6 +369,7 @@
 		"wave"	"ui/mm/win/mm_match_end_win_music_casual40.mp3"
 		"wave"	"ui/mm/win/mm_match_end_win_music_casual41.mp3"
 		"wave"	"ui/mm/win/mm_match_end_win_music_casual42.mp3"
+		"wave"	"ui/mm/win/mm_match_end_win_music_casual43.mp3"
 	}
 }
 
