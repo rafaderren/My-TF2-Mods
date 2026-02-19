@@ -1,0 +1,98 @@
+"Announcer.AM_KillStreak01"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/am_killstreak/announcer_AM_KillStreak01.mp3"
+}
+
+"Announcer.AM_KillStreak02"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/am_killstreak/announcer_AM_KillStreak02.mp3"
+}
+
+"Announcer.AM_KillStreak03"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/am_killstreak/announcer_AM_KillStreak03.mp3"
+}
+
+"Announcer.AM_KillStreak04"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/am_killstreak/announcer_AM_KillStreak04.mp3"
+}
+
+"Announcer.AM_KillStreak05"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/am_killstreak/announcer_AM_KillStreak05.mp3"
+}
+
+"Announcer.AM_KillStreak06"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/am_killstreak/announcer_AM_KillStreak06.mp3"
+}
+
+"Announcer.AM_KillStreak07"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/am_killstreak/announcer_AM_KillStreak07.mp3"
+}
+
+"Announcer.AM_KillStreak08"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/am_killstreak/announcer_AM_KillStreak08.mp3"
+}
+
+"Announcer.AM_KillStreak09"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/am_killstreak/announcer_AM_KillStreak09.mp3"
+}
+
+"Announcer.AM_KillStreak10"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/am_killstreak/announcer_AM_KillStreak10.mp3"
+}
+
+"Announcer.AM_KillStreak11"
+{
+	"channel"		"CHAN_VOICE2"
+	"volume"		"1.000"
+	"pitch"		"PITCH_NORM"
+	"soundlevel"		"SNDLVL_95dB"
+	"wave"		"ui/administrator/am_killstreak/announcer_AM_KillStreak11.mp3"
+}
