@@ -2,7 +2,7 @@ game_sounds_manifest
 {
 	"precache_file"		"custom/variablehitsound_classified/scripts/nonaudiojunglescripts/variablehitsound_chatsound.txt"
 	"precache_file"		"custom/variablehitsound_classified/scripts/nonaudiojunglescripts/variablehitsound_firstblood.txt"
-	//"precache_file"		"custom/variablehitsound_classified/scripts/nonaudiojunglescripts/variablehitsound_freezecam.txt"
+//	"precache_file"		"custom/variablehitsound_classified/scripts/nonaudiojunglescripts/variablehitsound_freezecam.txt"
 	"precache_file"		"custom/variablehitsound_classified/scripts/nonaudiojunglescripts/variablehitsound_overtime.txt"
 	"precache_file"		"custom/variablehitsound_classified/scripts/nonaudiojunglescripts/variablehitsound_arenamodekillstreak.txt"
 	"precache_file"		"custom/variablehitsound_classified/scripts/audiojungle_hitsounds.txt"

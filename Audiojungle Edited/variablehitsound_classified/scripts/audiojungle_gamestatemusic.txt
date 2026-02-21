@@ -159,7 +159,7 @@
 	"channel"		"CHAN_STATIC"
 	"soundlevel"		"SNDLVL_NONE"
 	"volume"		"0.55"
-	rndwave"
+	"rndwave"
 	{
 		"wave"	")*music/setup.mp3"
 		"wave"	"ui/mm/start/mm_round_start_casual.mp3"
