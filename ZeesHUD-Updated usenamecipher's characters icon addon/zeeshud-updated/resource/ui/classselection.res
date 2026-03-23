@@ -1,3 +1,5 @@
 #base "..\..\#customizations\addons\_enabled\animated_class_screen\class_selection.res"
 #base "../../#customizations/addons/_enabled/lucy_icons/class_selection.res"
+#base "../../#customizations/addons/_enabled/caitlyn_icons/class_selection.res"
+#base "../../#customizations/addons/_enabled/cheri_icons/class_selection.res"
 #base "../../_zeeshud_base/ingame_popups/class_selection.res"

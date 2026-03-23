@@ -1,0 +1,8 @@
+Mod Used: 
+- https://gamebanana.com/mods/640250
+- https://gamebanana.com/mods/657038
+- https://gamebanana.com/mods/661866
+
+This is a modification of LineMan's ZeesHUD icon replacements of
+usernamecipher's characters.
+Turns the mods into an addon over replacing textures
