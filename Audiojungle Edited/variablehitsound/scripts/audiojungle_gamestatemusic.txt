@@ -370,6 +370,8 @@
 		"wave"	"ui/mm/win/mm_match_end_win_music_casual41.mp3"
 		"wave"	"ui/mm/win/mm_match_end_win_music_casual42.mp3"
 		"wave"	"ui/mm/win/mm_match_end_win_music_casual43.mp3"
+		"wave"	"ui/mm/win/mm_match_end_win_music_casual44.mp3"
+		"wave"	"ui/mm/win/mm_match_end_win_music_casual45.mp3"
 	}
 }
 
@@ -403,5 +405,9 @@
 		"wave"	"ui/mm/lose/mm_match_end_lose_music_casual19.mp3"
 		"wave"	"ui/mm/lose/mm_match_end_lose_music_casual20.mp3"
 		"wave"	"ui/mm/lose/mm_match_end_lose_music_casual21.mp3"
+		"wave"	"ui/mm/lose/mm_match_end_lose_music_casual20.mp3"
+		"wave"	"ui/mm/lose/mm_match_end_lose_music_casual22.mp3"
+		"wave"	"ui/mm/lose/mm_match_end_lose_music_casual23.mp3"
+		"wave"	"ui/mm/lose/mm_match_end_lose_music_casual24.mp3"
 	}
 }

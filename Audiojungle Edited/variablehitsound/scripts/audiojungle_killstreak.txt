@@ -226,5 +226,15 @@
 		"wave"  "#ui/killstreak/killstreak217.mp3"
 		//"wave"  "#ui/killstreak/killstreak218.mp3"
 		//"wave"  "#ui/killstreak/killstreak219.mp3"
+		//"wave"  "#ui/killstreak/killstreak220.mp3"
+		//"wave"  "#ui/killstreak/killstreak221.mp3"
+		//"wave"  "#ui/killstreak/killstreak222.mp3"
+		//"wave"  "#ui/killstreak/killstreak223.mp3"
+		//"wave"  "#ui/killstreak/killstreak224.mp3"
+		//"wave"  "#ui/killstreak/killstreak225.mp3"
+		//"wave"  "#ui/killstreak/killstreak226.mp3"
+		//"wave"  "#ui/killstreak/killstreak227.mp3"
+		//"wave"  "#ui/killstreak/killstreak228.mp3"
+		//"wave"  "#ui/killstreak/killstreak229.mp3"
 	}
 }
