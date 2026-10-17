@@ -1,0 +1,11 @@
+"Rafa.Spawning"
+{
+	"channel"	"CHAN_STREAM"
+	"volume"	"VOL_NORM"
+	"soundlevel"  "SNDLVL_NONE"
+	"pitch"	"PITCH_NORM"
+
+	"wave"	"ui/spawn/spawn1.wav"
+	"wave"	"ui/spawn/spawn2.wav"
+}
+//playgamesound Rafa.Spawning

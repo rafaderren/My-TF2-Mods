@@ -64,6 +64,7 @@
 		"wave"  "#ui/team_lost/your_team_lost55.mp3"
 		"wave"  "#ui/team_lost/your_team_lost56.mp3"
 		"wave"  "#ui/team_lost/your_team_lost56_alt.mp3"
+		"wave"  "#ui/team_lost/your_team_lost57.mp3"
 	}
 
 }
@@ -150,6 +151,7 @@
 		"wave"  "#ui/team_win/your_team_won71.mp3"
 		"wave"  "#ui/team_win/your_team_won72.mp3"
 		"wave"  "#ui/team_win/your_team_won72_alt.mp3"
+		"wave"  "#ui/team_win/your_team_won73.mp3"
 	}
 
 }
